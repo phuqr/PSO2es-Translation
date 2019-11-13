@@ -146,9 +146,9 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -298,9 +298,9 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -458,9 +458,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -922,7 +922,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―ドカッ！―",
 		"tr_text": "",
 		"fileID": 1
@@ -1090,7 +1090,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―ぽよよよよーん……―",
 		"tr_text": "",
 		"fileID": 1
@@ -1186,7 +1186,7 @@
 	{
 		"eventNo": "30",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―ズシィィィィンッ！―",
 		"tr_text": "",
 		"fileID": 1
@@ -1850,9 +1850,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -1898,9 +1898,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -2042,9 +2042,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -2706,9 +2706,9 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -2786,9 +2786,9 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -2994,17 +2994,17 @@
 	{
 		"eventNo": "46",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
 		"eventNo": "47",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -3242,9 +3242,9 @@
 	{
 		"eventNo": "29",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -3594,9 +3594,9 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -3882,7 +3882,7 @@
 	{
 		"eventNo": "34",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "－パチコーン！！－",
 		"tr_text": "",
 		"fileID": 4
@@ -3914,9 +3914,9 @@
 	{
 		"eventNo": "38",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -3994,9 +3994,9 @@
 	{
 		"eventNo": "47",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -4026,9 +4026,9 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -4338,17 +4338,17 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -4410,7 +4410,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "惑星ハルコタンから戻ったあと<%br>会談の準備に時間がかかるということで<%br>急遽、バカンスをもらえたわたしたちは……<%br>惑星ウォパルにやって来ました！<%br>ホント、あのヒトには感謝だよぉ！！<%br>海！　すっごく楽しみ！！",
 		"tr_text": "",
 		"fileID": 5
@@ -4458,9 +4458,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 5
 	},
 	{
@@ -4762,9 +4762,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -4906,9 +4906,9 @@
 	{
 		"eventNo": "41",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -4978,7 +4978,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5202,7 +5202,7 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5434,7 +5434,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5474,7 +5474,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5506,7 +5506,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5538,7 +5538,7 @@
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5554,7 +5554,7 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5570,7 +5570,7 @@
 	{
 		"eventNo": "37",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5586,7 +5586,7 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5602,7 +5602,7 @@
 	{
 		"eventNo": "41",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5610,7 +5610,7 @@
 	{
 		"eventNo": "42",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5618,7 +5618,7 @@
 	{
 		"eventNo": "43",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―プー、プー……―",
 		"tr_text": "",
 		"fileID": 5
@@ -5706,9 +5706,9 @@
 	{
 		"eventNo": "54",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{

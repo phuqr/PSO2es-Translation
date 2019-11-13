@@ -3747,9 +3747,9 @@
 	{
 		"assign": "3290587",
 		"jp_text": "ルインペイントＭ",
-		"tr_text": "",
+		"tr_text": "Ruin Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nルインペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "\"Unlocksthemale-onlybodypaint\n\"RuinPaintM\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290588\",\r\n\t\t\"jp_text\": \"ルインペイントＦ\",\r\n\t\t\"tr_text\": \"RuinPaintF\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nルインペイントＦが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"RuinPaintF\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290589\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＭ白Ａ\",\r\n\t\t\"tr_text\": \"SimpleChokerMWhiteA\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ａが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"SimpleChokerMWhiteA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290590\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＭ白Ｂ\",\r\n\t\t\"tr_text\": \"SimpleChokerMWhiteB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"SimpleChokerMWhiteB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290591\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＭ白Ｃ\",\r\n\t\t\"tr_text\": \"SimpleChokerMWhiteC\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｃが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"SimpleChokerMWhiteC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290592\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＭ白Ｄ\",\r\n\t\t\"tr_text\": \"SimpleChokerMWhiteD\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｄが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"SimpleChokerMWhiteD\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290593\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＦ白Ａ\",\r\n\t\t\"tr_text\": \"SimpleChokerFWhiteA\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ａが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SimpleChokerFWhiteA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290594\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＦ白Ｂ\",\r\n\t\t\"tr_text\": \"SimpleChokerFWhiteB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SimpleChokerFWhiteB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290595\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＦ白Ｃ\",\r\n\t\t\"tr_text\": \"SimpleChokerFWhiteC\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｃが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SimpleChokerFWhiteC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290596\",\r\n\t\t\"jp_text\": \"シンプルチョーカーＦ白Ｄ\",\r\n\t\t\"tr_text\": \"SimpleChokerFWhiteD\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｄが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SimpleChokerFWhiteD\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290597\",\r\n\t\t\"jp_text\": \"ダイヤ柄ニーソ\",\r\n\t\t\"tr_text\": \"DiamondPatternKneeSocks\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nダイヤ柄ニーソが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"DiamondPatternKneeSocks\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290598\",\r\n\t\t\"jp_text\": \"ムジンタトゥーＭ\",\r\n\t\t\"tr_text\": \"MujinTattooM\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nムジンタトゥーＭが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"MujinTattooM\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290599\",\r\n\t\t\"jp_text\": \"ムジンタトゥーＦ\",\r\n\t\t\"tr_text\": \"MujinTattooF\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nムジンタトゥーＦが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"MujinTattooF\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290600\",\r\n\t\t\"jp_text\": \"イロドリグローブＭ　Ｂ\",\r\n\t\t\"tr_text\": \"IrodoriGlovesMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nイロドリグローブＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"IrodoriGlovesMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290601\",\r\n\t\t\"jp_text\": \"イロドリグローブＦ　Ｂ\",\r\n\t\t\"tr_text\": \"IrodoriGlovesFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nイロドリグローブＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"IrodoriGlovesFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290602\",\r\n\t\t\"jp_text\": \"ハナヤギグローブＭ　Ｂ\",\r\n\t\t\"tr_text\": \"HanayagiGlovesMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハナヤギグローブＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"HanayagiGlovesMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290603\",\r\n\t\t\"jp_text\": \"ハナヤギグローブＦ　Ｂ\",\r\n\t\t\"tr_text\": \"HanayagiGlovesFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハナヤギグローブＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"HanayagiGlovesFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290604\",\r\n\t\t\"jp_text\": \"ハナヤギニーハイＭ　Ｂ\",\r\n\t\t\"tr_text\": \"HanayagiKneeHighsMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハナヤギニーハイＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"HanayagiKneeHighsMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290605\",\r\n\t\t\"jp_text\": \"ハナヤギニーハイＦ　Ｂ\",\r\n\t\t\"tr_text\": \"HanayagiKneeHighsFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハナヤギニーハイＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"HanayagiKneeHighsFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290606\",\r\n\t\t\"jp_text\": \"エピリアペイントＢ\",\r\n\t\t\"tr_text\": \"EpiriaPaintB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nエピリアペイントＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"EpiriaPaintB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290607\",\r\n\t\t\"jp_text\": \"レースサイハイ\",\r\n\t\t\"tr_text\": \"LaceThighHighs\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nレースサイハイが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"LaceThighHighs\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290608\",\r\n\t\t\"jp_text\": \"セパレートラインタイツ\",\r\n\t\t\"tr_text\": \"SeperateLineTights\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nセパレートラインタイツが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SeperateLineTights\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290609\",\r\n\t\t\"jp_text\": \"ハートタトゥーＭ　Ｂ\",\r\n\t\t\"tr_text\": \"HeartTattooMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハートタトゥーＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"HeartTattooMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290610\",\r\n\t\t\"jp_text\": \"ハートタトゥーＦ　Ｂ\",\r\n\t\t\"tr_text\": \"HeartTattooFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハートタトゥーＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"HeartTattooFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290611\",\r\n\t\t\"jp_text\": \"ブラックローズタトゥーＭ\",\r\n\t\t\"tr_text\": \"BlackRoseTattooM\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nブラックローズタトゥーＭが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"BlackRoseTattooM\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290612\",\r\n\t\t\"jp_text\": \"ブラックローズタトゥーＦ\",\r\n\t\t\"tr_text\": \"BlackRoseTattooF\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nブラックローズタトゥーＦが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"BlackRoseTattooF\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290613\",\r\n\t\t\"jp_text\": \"アギニスタトゥーＭ　Ｂ\",\r\n\t\t\"tr_text\": \"AginisTattooMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nアギニスタトゥーＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"AginisTattooMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290614\",\r\n\t\t\"jp_text\": \"アギニスタトゥーＦ　Ｂ\",\r\n\t\t\"tr_text\": \"AginisTattooFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nアギニスタトゥーＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"AginisTattooFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290615\",\r\n\t\t\"jp_text\": \"ヴェーグペイント\",\r\n\t\t\"tr_text\": \"WegPaint\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nヴェーグペイントが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"WegPaint\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290616\",\r\n\t\t\"jp_text\": \"インユウ手袋\",\r\n\t\t\"tr_text\": \"InyuuGloves\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nインユウ手袋が選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"InyuuGloves\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290617\",\r\n\t\t\"jp_text\": \"フォルニスフィジス手袋\",\r\n\t\t\"tr_text\": \"FornisPhysisGloves\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nフォルニスフィジス手袋が選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"FornisPhysisGloves\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290618\",\r\n\t\t\"jp_text\": \"フローのソックスＭ　Ｂ\",\r\n\t\t\"tr_text\": \"FloSocksMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nフローのソックスＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"FloSocksMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290619\",\r\n\t\t\"jp_text\": \"フローのソックスＦ　Ｂ\",\r\n\t\t\"tr_text\": \"FloSocksFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nフローのソックスＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"FloSocksFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290620\",\r\n\t\t\"jp_text\": \"レースチョーカーＭ　紺\",\r\n\t\t\"tr_text\": \"BlueLaceChokerM\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nレースチョーカーＭ　紺が選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"BlueLaceChokerM\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290621\",\r\n\t\t\"jp_text\": \"レースチョーカーＦ　紺\",\r\n\t\t\"tr_text\": \"BlueLaceChokerF\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nレースチョーカーＦ　紺が選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"BlueLaceChokerF\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290622\",\r\n\t\t\"jp_text\": \"カンナギノタビＣ\",\r\n\t\t\"tr_text\": \"KannagiTabiC\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nカンナギノタビＣが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"KannagiTabiC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290623\",\r\n\t\t\"jp_text\": \"華乙女ソックスＣ\",\r\n\t\t\"tr_text\": \"YakisakaOtomeSocksC\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\n華乙女ソックスＣが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"YakisakaOtomeSocksC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290624\",\r\n\t\t\"jp_text\": \"ニレンカムイサイハイＭ　Ｂ\",\r\n\t\t\"tr_text\": \"TwinKamuiThighHighsMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nニレンカムイサイハイＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"TwinKamuiThighHighsMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290625\",\r\n\t\t\"jp_text\": \"ニレンカムイサイハイＦ　Ｂ\",\r\n\t\t\"tr_text\": \"TwinKamuiThighHighsFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nニレンカムイサイハイＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"TwinKamuiThighHighsFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290626\",\r\n\t\t\"jp_text\": \"華乙女チョーカーＢ\",\r\n\t\t\"tr_text\": \"YakisakaOtomeChokerB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\n華乙女チョーカーＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"YakisakaOtomeChokerB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290628\",\r\n\t\t\"jp_text\": \"レトロストッキング\",\r\n\t\t\"tr_text\": \"RetroStockings\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nレトロストッキングが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"RetroStockings\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290629\",\r\n\t\t\"jp_text\": \"ドット柄サイハイ\",\r\n\t\t\"tr_text\": \"DottedThighHighs\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nドット柄サイハイが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"DottedThighHighs\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290630\",\r\n\t\t\"jp_text\": \"ミコトソックス\",\r\n\t\t\"tr_text\": \"MikotoSocks\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nミコトソックスが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"MikotoSocks\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290631\",\r\n\t\t\"jp_text\": \"メルレットグローブＣ\",\r\n\t\t\"tr_text\": \"MerlettoGlovesC\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nメルレットグローブＣが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"MerlettoGlovesC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290632\",\r\n\t\t\"jp_text\": \"ハロウィンサイハイＭ　Ｂ\",\r\n\t\t\"tr_text\": \"HalloweenThighHighsMB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハロウィンサイハイＭ　Ｂが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"HalloweenThighHighsMB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290633\",\r\n\t\t\"jp_text\": \"ハロウィンサイハイＦ　Ｂ\",\r\n\t\t\"tr_text\": \"HalloweenThighHighsFB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハロウィンサイハイＦ　Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"HalloweenThighHighsFB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290634\",\r\n\t\t\"jp_text\": \"天星学院ソックスＢ\",\r\n\t\t\"tr_text\": \"TenseiAcademySocksB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\n天星学院ソックスＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"TenseiAcademySocksB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290635\",\r\n\t\t\"jp_text\": \"天星学院ニーソックスＢ\",\r\n\t\t\"tr_text\": \"TenseiAcademyKneeSocksB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\n天星学院ニーソックスＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"TenseiAcademyKneeSocksB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290636\",\r\n\t\t\"jp_text\": \"オーバーニータイツ　茶\",\r\n\t\t\"tr_text\": \"OverKneeTightsBrown\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nオーバーニータイツ　茶が選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"OverKneeTightsBrown\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290637\",\r\n\t\t\"jp_text\": \"パターンレギンスＢ\",\r\n\t\t\"tr_text\": \"PatternLeggingsB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nパターンレギンスＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"PatternLeggingsB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290638\",\r\n\t\t\"jp_text\": \"カレテラソックスＢ\",\r\n\t\t\"tr_text\": \"CareterraSocksB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nカレテラソックスＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"CareterraSocksB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290639\",\r\n\t\t\"jp_text\": \"シャルフペイントＢ\",\r\n\t\t\"tr_text\": \"ScharfPaintB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nシャルフペイントＢが選択可能。\n男性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthemale-onlybodypaint\n\"ScharfPaintB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290644\",\r\n\t\t\"jp_text\": \"ポポナのソックス\",\r\n\t\t\"tr_text\": \"PoponaSocks\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nポポナのソックスが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"PoponaSocks\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290650\",\r\n\t\t\"jp_text\": \"ハッピーグローブＢ\",\r\n\t\t\"tr_text\": \"HappyGlovesB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nハッピーグローブＢが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"HappyGlovesB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3290651\",\r\n\t\t\"jp_text\": \"スマートソックス＆手袋Ｂ\",\r\n\t\t\"tr_text\": \"SmartSocks&GlovesB\",\r\n\t\t\"jp_explain\": \"チケットを使用すると、ボディペイント\nスマートソックス＆手袋Ｂが選択可能。\n女性のみ使用可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthefemale-onlybodypaint\n\"SmartSocks&GlovesB\"\nforuseintheBeautySalon.\"\r\n\t}\r"
 	},
 	{
 		"assign": "3290588",
@@ -3761,372 +3761,372 @@
 	{
 		"assign": "3290589",
 		"jp_text": "シンプルチョーカーＭ白Ａ",
-		"tr_text": "Simple Choker M White A",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ａが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M White A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290590",
 		"jp_text": "シンプルチョーカーＭ白Ｂ",
-		"tr_text": "Simple Choker M White B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M White B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290591",
 		"jp_text": "シンプルチョーカーＭ白Ｃ",
-		"tr_text": "Simple Choker M White C",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｃが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M White C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290592",
 		"jp_text": "シンプルチョーカーＭ白Ｄ",
-		"tr_text": "Simple Choker M White D",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ白Ｄが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M White D\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290593",
 		"jp_text": "シンプルチョーカーＦ白Ａ",
-		"tr_text": "Simple Choker F White A",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ａが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F White A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290594",
 		"jp_text": "シンプルチョーカーＦ白Ｂ",
-		"tr_text": "Simple Choker F White B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F White B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290595",
 		"jp_text": "シンプルチョーカーＦ白Ｃ",
-		"tr_text": "Simple Choker F White C",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｃが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F White C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290596",
 		"jp_text": "シンプルチョーカーＦ白Ｄ",
-		"tr_text": "Simple Choker F White D",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ白Ｄが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F White D\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290597",
 		"jp_text": "ダイヤ柄ニーソ",
-		"tr_text": "Diamond Pattern Knee Socks",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nダイヤ柄ニーソが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Diamond Pattern Knee Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290598",
 		"jp_text": "ムジンタトゥーＭ",
-		"tr_text": "Mujin Tattoo M",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nムジンタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Mujin Tattoo M\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290599",
 		"jp_text": "ムジンタトゥーＦ",
-		"tr_text": "Mujin Tattoo F",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nムジンタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Mujin Tattoo F\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290600",
 		"jp_text": "イロドリグローブＭ　Ｂ",
-		"tr_text": "Irodori Gloves M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nイロドリグローブＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Irodori Gloves M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290601",
 		"jp_text": "イロドリグローブＦ　Ｂ",
-		"tr_text": "Irodori Gloves F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nイロドリグローブＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Irodori Gloves F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290602",
 		"jp_text": "ハナヤギグローブＭ　Ｂ",
-		"tr_text": "Hanayagi Gloves M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギグローブＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Hanayagi Gloves M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290603",
 		"jp_text": "ハナヤギグローブＦ　Ｂ",
-		"tr_text": "Hanayagi Gloves F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギグローブＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Hanayagi Gloves F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290604",
 		"jp_text": "ハナヤギニーハイＭ　Ｂ",
-		"tr_text": "Hanayagi Knee Highs M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Hanayagi Knee Highs M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290605",
 		"jp_text": "ハナヤギニーハイＦ　Ｂ",
-		"tr_text": "Hanayagi Knee Highs F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Hanayagi Knee Highs F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290606",
 		"jp_text": "エピリアペイントＢ",
-		"tr_text": "Epiria Paint B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエピリアペイントＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Epiria Paint B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290607",
 		"jp_text": "レースサイハイ",
-		"tr_text": "Lace Thigh Highs",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースサイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Lace Thigh Highs\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290608",
 		"jp_text": "セパレートラインタイツ",
-		"tr_text": "Seperate Line Tights",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nセパレートラインタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Seperate Line Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290609",
 		"jp_text": "ハートタトゥーＭ　Ｂ",
-		"tr_text": "Heart Tattoo M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハートタトゥーＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Heart Tattoo M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290610",
 		"jp_text": "ハートタトゥーＦ　Ｂ",
-		"tr_text": "Heart Tattoo F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハートタトゥーＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Heart Tattoo F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290611",
 		"jp_text": "ブラックローズタトゥーＭ",
-		"tr_text": "Black Rose Tattoo M",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブラックローズタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Black Rose Tattoo M\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290612",
 		"jp_text": "ブラックローズタトゥーＦ",
-		"tr_text": "Black Rose Tattoo F",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブラックローズタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Black Rose Tattoo F\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290613",
 		"jp_text": "アギニスタトゥーＭ　Ｂ",
-		"tr_text": "Aginis Tattoo M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアギニスタトゥーＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Aginis Tattoo M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290614",
 		"jp_text": "アギニスタトゥーＦ　Ｂ",
-		"tr_text": "Aginis Tattoo F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアギニスタトゥーＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Aginis Tattoo F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290615",
 		"jp_text": "ヴェーグペイント",
-		"tr_text": "Weg Paint",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヴェーグペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Weg Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290616",
 		"jp_text": "インユウ手袋",
-		"tr_text": "Inyuu Gloves",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインユウ手袋が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Inyuu Gloves\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290617",
 		"jp_text": "フォルニスフィジス手袋",
-		"tr_text": "Fornis Physis Gloves",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフォルニスフィジス手袋が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Fornis Physis Gloves\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290618",
 		"jp_text": "フローのソックスＭ　Ｂ",
-		"tr_text": "Flo Socks M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフローのソックスＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Flo Socks M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290619",
 		"jp_text": "フローのソックスＦ　Ｂ",
-		"tr_text": "Flo Socks F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフローのソックスＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Flo Socks F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290620",
 		"jp_text": "レースチョーカーＭ　紺",
-		"tr_text": "Blue Lace Choker M",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　紺が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Blue Lace Choker M\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290621",
 		"jp_text": "レースチョーカーＦ　紺",
-		"tr_text": "Blue Lace Choker F",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　紺が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Blue Lace Choker F\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290622",
 		"jp_text": "カンナギノタビＣ",
-		"tr_text": "Kannagi Tabi C",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカンナギノタビＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Kannagi Tabi C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290623",
 		"jp_text": "華乙女ソックスＣ",
-		"tr_text": "Yakisaka Otome Socks C",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女ソックスＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Yakisaka Otome Socks C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290624",
 		"jp_text": "ニレンカムイサイハイＭ　Ｂ",
-		"tr_text": "Twin Kamui Thigh Highs M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニレンカムイサイハイＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Twin Kamui Thigh Highs M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290625",
 		"jp_text": "ニレンカムイサイハイＦ　Ｂ",
-		"tr_text": "Twin Kamui Thigh Highs F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニレンカムイサイハイＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Twin Kamui Thigh Highs F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290626",
 		"jp_text": "華乙女チョーカーＢ",
-		"tr_text": "Yakisaka Otome Choker B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女チョーカーＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Yakisaka Otome Choker B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290628",
 		"jp_text": "レトロストッキング",
-		"tr_text": "Retro Stockings",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレトロストッキングが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Retro Stockings\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290629",
 		"jp_text": "ドット柄サイハイ",
-		"tr_text": "Dotted Thigh Highs",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nドット柄サイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Dotted Thigh Highs\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290630",
 		"jp_text": "ミコトソックス",
-		"tr_text": "Mikoto Socks",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nミコトソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Mikoto Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290631",
 		"jp_text": "メルレットグローブＣ",
-		"tr_text": "Merletto Gloves C",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメルレットグローブＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Merletto Gloves C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290632",
 		"jp_text": "ハロウィンサイハイＭ　Ｂ",
-		"tr_text": "Halloween Thigh Highs M B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハロウィンサイハイＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Halloween Thigh Highs M B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290633",
 		"jp_text": "ハロウィンサイハイＦ　Ｂ",
-		"tr_text": "Halloween Thigh Highs F B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハロウィンサイハイＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Halloween Thigh Highs F B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290634",
 		"jp_text": "天星学院ソックスＢ",
-		"tr_text": "Tensei Academy Socks B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Tensei Academy Socks B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290635",
 		"jp_text": "天星学院ニーソックスＢ",
-		"tr_text": "Tensei Academy Knee Socks B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ニーソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Tensei Academy Knee Socks B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290636",
 		"jp_text": "オーバーニータイツ　茶",
-		"tr_text": "Over Knee Tights Brown",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオーバーニータイツ　茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Over Knee Tights Brown\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290637",
 		"jp_text": "パターンレギンスＢ",
-		"tr_text": "Pattern Leggings B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパターンレギンスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Pattern Leggings B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290638",
 		"jp_text": "カレテラソックスＢ",
-		"tr_text": "Careterra Socks B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカレテラソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Careterra Socks B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290639",
 		"jp_text": "シャルフペイントＢ",
-		"tr_text": "Scharf Paint B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシャルフペイントＢが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Scharf Paint B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290644",
 		"jp_text": "ポポナのソックス",
-		"tr_text": "Popona Socks",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nポポナのソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Popona Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290650",
 		"jp_text": "ハッピーグローブＢ",
-		"tr_text": "Happy Gloves B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハッピーグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Happy Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3290651",
 		"jp_text": "スマートソックス＆手袋Ｂ",
-		"tr_text": "Smart Socks & Gloves B",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスマートソックス＆手袋Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Smart Socks & Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	}
 ]

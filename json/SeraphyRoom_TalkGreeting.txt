@@ -312,7 +312,7 @@
 	{
 		"text_id": 99900,
 		"jp_text": "あっ！\n<%CHARANAME>さん\nちょうどいいところに！　",
-		"tr_text": ""
+		"tr_text": "Ah! \n <% CHARANAME> \n Just right!"
 	},
 	{
 		"text_id": 99900,
@@ -322,12 +322,12 @@
 	{
 		"text_id": 99900,
 		"jp_text": "えっと……\nコホン、では改めまして…………",
-		"tr_text": ""
+		"tr_text": "Umm…… \nlet me change…………"
 	},
 	{
 		"text_id": 99900,
 		"jp_text": "じゃじゃーん！\nようこそ！\n「チップ研究室」へ！",
-		"tr_text": ""
+		"tr_text": "Welcome! \nto the \"ChipLaboratory\"!"
 	},
 	{
 		"text_id": 99900,
@@ -337,7 +337,7 @@
 	{
 		"text_id": 99900,
 		"jp_text": "……と、言っても\n私の部屋なんですけどね……\nあはは……",
-		"tr_text": ""
+		"tr_text": "...... That's what I said \nIt's my room ... \nHaha ..."
 	},
 	{
 		"text_id": 99900,
@@ -347,7 +347,7 @@
 	{
 		"text_id": 99900,
 		"jp_text": "実は私\n独自で『チップ』の調査を\n行っているんです。",
-		"tr_text": ""
+		"tr_text": "In fact, \nI do my own research on \"chips\"."
 	},
 	{
 		"text_id": 99900,

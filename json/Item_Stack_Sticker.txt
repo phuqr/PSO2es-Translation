@@ -1675,149 +1675,149 @@
 	{
 		"assign": "3170270",
 		"jp_text": "ジャージーステッカー",
-		"tr_text": "",
+		"tr_text": "Jersey sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nジャージーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the sticker\n\"Jersey\"\nfor use in the Beauty Salon.\"\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170271\",\r\n\t\t\"jp_text\": \"エスクリダオンステッカー\",\r\n\t\t\"tr_text\": \"EscuridaonSticker\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエスクリダオンが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Escuridaon\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170272\",\r\n\t\t\"jp_text\": \"エクセレントステッカーＡ\",\r\n\t\t\"tr_text\": \"ExcellentStickerA\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＡが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ExcellentA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170273\",\r\n\t\t\"jp_text\": \"エクセレントステッカーＢ\",\r\n\t\t\"tr_text\": \"ExcellentStickerB\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＢが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ExcellentB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170274\",\r\n\t\t\"jp_text\": \"エクセレントステッカーＣ\",\r\n\t\t\"tr_text\": \"ExcellentStickerC\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＣが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ExcellentC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170275\",\r\n\t\t\"jp_text\": \"エレガントステッカーＡ\",\r\n\t\t\"tr_text\": \"ElegantStickerA\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＡが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ElegantA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170276\",\r\n\t\t\"jp_text\": \"エレガントステッカーＢ\",\r\n\t\t\"tr_text\": \"ElegantStickerB\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＢが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ElegantB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170277\",\r\n\t\t\"jp_text\": \"エレガントステッカーＣ\",\r\n\t\t\"tr_text\": \"ElegantStickerC\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＣが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ElegantC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170278\",\r\n\t\t\"jp_text\": \"ノッツェステッカーＡ\",\r\n\t\t\"tr_text\": \"NozzeStickerA\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＡが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"NozzeA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170279\",\r\n\t\t\"jp_text\": \"ノッツェステッカーＢ\",\r\n\t\t\"tr_text\": \"NozzeStickerB\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＢが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"NozzeB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170280\",\r\n\t\t\"jp_text\": \"ノッツェステッカーＣ\",\r\n\t\t\"tr_text\": \"NozzeStickerC\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＣが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"NozzeC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170281\",\r\n\t\t\"jp_text\": \"ＰＳ３０周年記念ロゴ\",\r\n\t\t\"tr_text\": \"PS30thAnniversaryLogo\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ３０周年記念ロゴが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"PS30thAnniversaryLogo\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170282\",\r\n\t\t\"jp_text\": \"エピックエンブレムＡ\",\r\n\t\t\"tr_text\": \"EpicEmblemA\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＡが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"EpicEmblemA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170283\",\r\n\t\t\"jp_text\": \"エピックエンブレムＢ\",\r\n\t\t\"tr_text\": \"EpicEmblemB\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＢが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"EpicEmblemB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170284\",\r\n\t\t\"jp_text\": \"エピックエンブレムＣ\",\r\n\t\t\"tr_text\": \"EpicEmblemC\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＣが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"EpicEmblemC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170285\",\r\n\t\t\"jp_text\": \"こぶたステッカー\",\r\n\t\t\"tr_text\": \"KobutaSticker\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nこぶたが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Kobuta\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170286\",\r\n\t\t\"jp_text\": \"イス＝アルスエンブレムＡ\",\r\n\t\t\"tr_text\": \"Es-ArsEmblemA\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＡが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Es-ArsEmblemA\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170287\",\r\n\t\t\"jp_text\": \"イス＝アルスエンブレムＢ\",\r\n\t\t\"tr_text\": \"Es-ArsEmblemB\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＢが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Es-ArsEmblemB\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170288\",\r\n\t\t\"jp_text\": \"イス＝アルスエンブレムＣ\",\r\n\t\t\"tr_text\": \"Es-ArsEmblemC\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＣが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Es-ArsEmblemC\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170289\",\r\n\t\t\"jp_text\": \"Ｅ小隊隊章\",\r\n\t\t\"tr_text\": \"SquadEEmblem\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＥ小隊隊章が選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"SquadEEmblem\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170290\",\r\n\t\t\"jp_text\": \"ゼクス・オウル隊章\",\r\n\t\t\"tr_text\": \"ZechsOwlEmblem\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nゼクス・オウル隊章が選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"ZechsOwlEmblem\"\nforuseintheBeautySalon.\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170291\",\r\n\t\t\"jp_text\": \"アークス検定２０１８合格\",\r\n\t\t\"tr_text\": \"\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークス検定２０１８合格が選択可能。\",\r\n\t\t\"tr_explain\": \"\"\r\n\t},\r\n\t{\r\n\t\t\"assign\": \"3170294\",\r\n\t\t\"jp_text\": \"わさっちステッカー\",\r\n\t\t\"tr_text\": \"WasatchSticker\",\r\n\t\t\"jp_explain\": \"特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nわさっちが選択可能。\",\r\n\t\t\"tr_explain\": \"Unlocksthesticker\n\"Wasatch\"\nforuseintheBeautySalon.\""
 	},
 	{
 		"assign": "3170271",
 		"jp_text": "エスクリダオンステッカー",
-		"tr_text": "Escuridaon Sticker",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエスクリダオンが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Escuridaon\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170272",
 		"jp_text": "エクセレントステッカーＡ",
-		"tr_text": "Excellent Sticker A",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Excellent A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170273",
 		"jp_text": "エクセレントステッカーＢ",
-		"tr_text": "Excellent Sticker B",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Excellent B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170274",
 		"jp_text": "エクセレントステッカーＣ",
-		"tr_text": "Excellent Sticker C",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエクセレントＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Excellent C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170275",
 		"jp_text": "エレガントステッカーＡ",
-		"tr_text": "Elegant Sticker A",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Elegant A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170276",
 		"jp_text": "エレガントステッカーＢ",
-		"tr_text": "Elegant Sticker B",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Elegant B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170277",
 		"jp_text": "エレガントステッカーＣ",
-		"tr_text": "Elegant Sticker C",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエレガントＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Elegant C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170278",
 		"jp_text": "ノッツェステッカーＡ",
-		"tr_text": "Nozze Sticker A",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Nozze A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170279",
 		"jp_text": "ノッツェステッカーＢ",
-		"tr_text": "Nozze Sticker B",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Nozze B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170280",
 		"jp_text": "ノッツェステッカーＣ",
-		"tr_text": "Nozze Sticker C",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nノッツェＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Nozze C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170281",
 		"jp_text": "ＰＳ３０周年記念ロゴ",
-		"tr_text": "PS 30th Anniversary Logo",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ３０周年記念ロゴが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"PS 30th Anniversary Logo\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170282",
 		"jp_text": "エピックエンブレムＡ",
-		"tr_text": "Epic Emblem A",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Epic Emblem A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170283",
 		"jp_text": "エピックエンブレムＢ",
-		"tr_text": "Epic Emblem B",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Epic Emblem B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170284",
 		"jp_text": "エピックエンブレムＣ",
-		"tr_text": "Epic Emblem C",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Epic Emblem C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170285",
 		"jp_text": "こぶたステッカー",
-		"tr_text": "Kobuta Sticker",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nこぶたが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Kobuta\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170286",
 		"jp_text": "イス＝アルスエンブレムＡ",
-		"tr_text": "Es-Ars Emblem A",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Es-Ars Emblem A\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170287",
 		"jp_text": "イス＝アルスエンブレムＢ",
-		"tr_text": "Es-Ars Emblem B",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Es-Ars Emblem B\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170288",
 		"jp_text": "イス＝アルスエンブレムＣ",
-		"tr_text": "Es-Ars Emblem C",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイス＝アルスエンブレムＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Es-Ars Emblem C\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170289",
 		"jp_text": "Ｅ小隊隊章",
-		"tr_text": "Squad E Emblem",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＥ小隊隊章が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Squad E Emblem\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170290",
 		"jp_text": "ゼクス・オウル隊章",
-		"tr_text": "Zechs Owl Emblem",
+		"tr_text": "",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nゼクス・オウル隊章が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Zechs Owl Emblem\"\nfor use in the Beauty Salon."
+		"tr_explain": ""
 	},
 	{
 		"assign": "3170291",
@@ -1885,9 +1885,9 @@
 	{
 		"assign": "3170302",
 		"jp_text": "ＰＳ感謝祭２０１９",
-		"tr_text": "",
+		"tr_text": "PS Thanksgiving 2019",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ感謝祭２０１９が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the sticker\n\"PS Thanksgiving 2019\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3170303",
@@ -1927,9 +1927,9 @@
 	{
 		"assign": "3170309",
 		"jp_text": "アークスＢＴ２０１９",
-		"tr_text": "",
+		"tr_text": "Arcs BT2019",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークスＢＴ２０１９が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the sticker\n\"Arcs BT2019\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3170310",

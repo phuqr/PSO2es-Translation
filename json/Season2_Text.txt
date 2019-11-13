@@ -2,7 +2,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "E.M.A.研究所の爆破事件……<%br>唯一の生存者　ザッカードの保護が<%br>わたしのアークスとしての<%br>初めての任務でした。",
 		"tr_text": "The E.M.A. Lab Bombing Incident...<%br>My first duty as an ARKS<%br>was the protection of the<%br>sole survivor, Zackard.",
 		"fileID": 1
@@ -10,7 +10,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "あなたと同じチームだったから<%br>わたしは、あの戦いを……任務を<%br>アークスとして全うできました。",
 		"tr_text": "Because I was in the same<%br>team as you, I was able to...<%br>I was able to fight in that<%br>mission as an ARKS.",
 		"fileID": 1
@@ -18,7 +18,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "「イノセントブルー」によって<%br>生まれたウェポノイド<%br>そして……敵として現れた<%br>ロード達との闘い……",
 		"tr_text": "From \"Innocent Blue\",<%br>I was born as a Weaponoid...<%br>As was Lord, who fought<%br>as our adversary.",
 		"fileID": 1
@@ -34,7 +34,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "想像する悪意",
 		"tr_text": "Imagining Malice",
 		"fileID": 1
@@ -82,7 +82,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "誰も知らない悪意は<%br>深い深いその場所で<%br>すでに始まっていました。",
 		"tr_text": "Nobody could have known,<%br>but in that deep, dark place,<%br>evil had begun to return to the world.",
 		"fileID": 1
@@ -90,7 +90,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "誰かが思いついたことは<%br>すでにどこかで<%br>それは実現している。",
 		"tr_text": "By the time anyone realised,<%br>it was too late.<%br>It was already taking shape.",
 		"fileID": 1
@@ -98,7 +98,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "わたし達が防いだと思った悪意は<%br>別の場所で、別の誰かが<%br>すでに実現していました……",
 		"tr_text": "The evil that we thought<%br>we had stopped was<%br>manifesting in another place,<%br>through another person.",
 		"fileID": 1
@@ -1140,7 +1140,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -1540,7 +1540,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -1698,9 +1698,9 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -1868,7 +1868,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -2668,7 +2668,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -2932,7 +2932,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -2972,7 +2972,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -3068,7 +3068,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -3186,9 +3186,9 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -3234,9 +3234,9 @@
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -3628,7 +3628,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -3666,9 +3666,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 1
 	},
 	{
@@ -4076,7 +4076,7 @@
 		"jp_name": "セラフィ",
 		"tr_name": "Seraphy",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 1
 	},
 	{
@@ -4154,7 +4154,7 @@
 	{
 		"eventNo": "37",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "その……小さな手と<%br>その　小さな瞳で",
 		"tr_text": "",
 		"fileID": 1
@@ -4186,7 +4186,7 @@
 	{
 		"eventNo": "41",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "想像する悪意",
 		"tr_text": "",
 		"fileID": 1
@@ -4228,7 +4228,7 @@
 		"jp_name": "アナティス",
 		"tr_name": "Anatis",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -4242,17 +4242,17 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -4298,7 +4298,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "塞がれた世界",
 		"tr_text": "",
 		"fileID": 2
@@ -4306,7 +4306,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ブルーノさんが追跡を続けていた<%br>ダンテ達……トランスエネミー。<%br>彼らの手がかりを追って、わたし達は<%br>惑星ナベリウスの調査を行っていました。",
 		"tr_text": "",
 		"fileID": 2
@@ -4314,7 +4314,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "そこで、新たなトランスエネミーの<%br>幼い少女　デュナと<%br>エネミーを捕食する新たな敵<%br>ヘイドと出会いました。",
 		"tr_text": "",
 		"fileID": 2
@@ -4322,7 +4322,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "そして、ヘイドを捕獲しようとした<%br>わたし達の前に立ち塞がったのは……<%br>一人のウェポノイドだったのです。",
 		"tr_text": "",
 		"fileID": 2
@@ -4420,7 +4420,7 @@
 		"jp_name": "デュナ",
 		"tr_name": "Duna",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -4596,7 +4596,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -4852,7 +4852,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -5418,9 +5418,9 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -5900,7 +5900,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -5908,7 +5908,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"jp_buttons": [
 			"今はできることをしよう。",
 			"不安？"
@@ -6042,9 +6042,9 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -6108,7 +6108,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6164,7 +6164,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6332,7 +6332,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6476,7 +6476,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6524,7 +6524,7 @@
 		"jp_name": "ブルーノ",
 		"tr_name": "Bruno",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6596,7 +6596,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6698,9 +6698,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -6772,7 +6772,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -6836,7 +6836,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -7330,7 +7330,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "グシャ……グシャ……",
 		"tr_text": "",
 		"fileID": 2
@@ -7340,7 +7340,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -7604,7 +7604,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -7714,9 +7714,9 @@
 	{
 		"eventNo": "23",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 2
 	},
 	{
@@ -7724,7 +7724,7 @@
 		"jp_name": "次席と呼ばれた女性",
 		"tr_name": "",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -8004,7 +8004,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -8060,7 +8060,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -8146,7 +8146,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "ヘイド",
-		"tr_name": "",
+		"tr_name": "Hade",
 		"jp_text": "あぁ、アークスという強大な力の前に<%br>今の俺では敵わない……",
 		"tr_text": "",
 		"fileID": 2
@@ -8316,7 +8316,7 @@
 		"jp_name": "モア",
 		"tr_name": "More",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 2
 	},
 	{
@@ -8762,7 +8762,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "塞がれた世界",
 		"tr_text": "",
 		"fileID": 2
@@ -8770,7 +8770,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "彼、ヘイドは言いました。<%br>どうしてアークスは全てに<%br>「理由」を求めるのか。<%br>それは、わたし達アークスが<%br>「納得」したいだけだ、と。",
 		"tr_text": "",
 		"fileID": 3
@@ -8778,7 +8778,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "仲間であるウェポノイドを<%br>捕食することさえ<%br>彼は生きるためだと……<%br>そう言いました。",
 		"tr_text": "",
 		"fileID": 3
@@ -8786,7 +8786,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "彼にとって生きるためには<%br>わたし達アークスを<%br>「危険な存在」を殺さねばならない。",
 		"tr_text": "",
 		"fileID": 3
@@ -8794,7 +8794,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ヘイドは、仲間を捕食してでも<%br>力を手にし……わたし達アークスを<%br>殺さなければならないのです。",
 		"tr_text": "",
 		"fileID": 3
@@ -8852,7 +8852,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -8866,7 +8866,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "それぞれの「理由」",
 		"tr_text": "",
 		"fileID": 3
@@ -9252,7 +9252,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -9268,7 +9268,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -9820,7 +9820,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -9852,7 +9852,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10060,7 +10060,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10180,7 +10180,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10484,7 +10484,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10548,7 +10548,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10660,7 +10660,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -10794,17 +10794,17 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -10844,15 +10844,15 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -10892,7 +10892,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -11482,9 +11482,9 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -11682,9 +11682,9 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -11748,7 +11748,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -11802,9 +11802,9 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -12060,7 +12060,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12100,7 +12100,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12284,15 +12284,15 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -12396,7 +12396,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12476,7 +12476,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12612,7 +12612,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12812,7 +12812,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -12972,7 +12972,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13074,9 +13074,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -13092,7 +13092,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13106,9 +13106,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -13340,7 +13340,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13500,7 +13500,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13540,7 +13540,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13676,7 +13676,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 3
 	},
 	{
@@ -13730,9 +13730,9 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -13810,9 +13810,9 @@
 	{
 		"eventNo": "22",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 3
 	},
 	{
@@ -13866,7 +13866,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "それぞれの「理由」",
 		"tr_text": "",
 		"fileID": 3
@@ -13898,7 +13898,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "わたし達が駆け付けたときには<%br>ブルーノさんは、重傷を負い<%br>アネットさんはその場に倒れて<%br>……意識を失っていました。",
 		"tr_text": "",
 		"fileID": 4
@@ -13906,7 +13906,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "そして……<%br>カラミティさんの姿は<%br>どこにも、ありませんでした……",
 		"tr_text": "",
 		"fileID": 4
@@ -13914,7 +13914,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "歌の続き",
 		"tr_text": "",
 		"fileID": 4
@@ -14026,7 +14026,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "リーダーたちと離れて<%br>私、ブルーノ、カラミティの３名は<%br>惑星ウォパルへ向かった。",
 		"tr_text": "",
 		"fileID": 4
@@ -14034,7 +14034,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "そこにいたのは<%br>多くのエネミーを捕食する<%br>マギサ・メデューナだった。",
 		"tr_text": "",
 		"fileID": 4
@@ -14186,7 +14186,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "惑星ウォパルで遭遇した<%br>新たなトランスエネミー……<%br>アナティスの能力によって<%br>カラミティが「洗脳」されてしまった。",
 		"tr_text": "",
 		"fileID": 4
@@ -14194,7 +14194,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "洗脳されたカラミティの攻撃から<%br>私を庇い、ブルーノが負傷。<%br>その後、通信でリーダーたちへ<%br>私は助けを求めた……",
 		"tr_text": "",
 		"fileID": 4
@@ -14202,7 +14202,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "みんなが駆け付けるよりも先に<%br>最悪なことに……<%br>ヘイドが空間転移能力で<%br>現れてしまった……",
 		"tr_text": "",
 		"fileID": 4
@@ -14586,9 +14586,9 @@
 	{
 		"eventNo": "25",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -15068,7 +15068,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -15372,7 +15372,7 @@
 		"jp_name": "カラミティ",
 		"tr_name": "Calamity",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -15580,7 +15580,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -15722,9 +15722,9 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -15780,7 +15780,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -15836,7 +15836,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -16266,9 +16266,9 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -16500,7 +16500,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -16586,17 +16586,17 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -16906,7 +16906,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "キィィィイイイイーーーー！！！！",
 		"tr_text": "",
 		"fileID": 4
@@ -16916,7 +16916,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -16938,7 +16938,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "惑星ウォパルでのブルーノら襲撃後",
 		"tr_text": "",
 		"fileID": 4
@@ -16978,9 +16978,9 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -17282,9 +17282,9 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -17460,15 +17460,15 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -17522,9 +17522,9 @@
 	{
 		"eventNo": "27",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -17850,9 +17850,9 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -18010,9 +18010,9 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -18212,7 +18212,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18220,7 +18220,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18268,7 +18268,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18362,7 +18362,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "イノセントブルーによって<%br>ザッカードが生み出したのが<%br>ウェポノイド。<%br>E.M.A.はウェポノイドを<%br>悪用しようとした。",
 		"tr_text": "",
 		"fileID": 4
@@ -18370,7 +18370,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ウェポノイドを強制的に<%br>コントロールする技術開発を<%br>進めたかったが……<%br>ザッカードは拒んだ。",
 		"tr_text": "",
 		"fileID": 4
@@ -18572,7 +18572,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18604,7 +18604,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18642,15 +18642,15 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "惑星ウォパル海岸エリア　アナティス遭遇前",
 		"tr_text": "",
 		"fileID": 4
@@ -18684,7 +18684,7 @@
 		"jp_name": "アネット",
 		"tr_name": "Annette",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18892,7 +18892,7 @@
 		"jp_name": "シュトラ",
 		"tr_name": "Stra",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -18946,9 +18946,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -19162,25 +19162,25 @@
 	{
 		"eventNo": "32",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "34",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -19242,17 +19242,17 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -19298,9 +19298,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 4
 	},
 	{
@@ -19428,7 +19428,7 @@
 		"jp_name": "ヘイド",
 		"tr_name": "Hade",
 		"jp_text": "…………",
-		"tr_text": "",
+		"tr_text": "…………",
 		"fileID": 4
 	},
 	{
@@ -19490,7 +19490,7 @@
 	{
 		"eventNo": "38",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "歌の続き",
 		"tr_text": "",
 		"fileID": 4
@@ -19498,7 +19498,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "わたし達は<%br>新たなトランスエネミー<%br>ヘイド、アナティスと<%br>戦いを続けていました。",
 		"tr_text": "We were continuing our<%br>fight against the Trans<%br>Enemies, Hade and Anatis.",
 		"fileID": 5
@@ -19506,7 +19506,7 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "彼らの、わたし達アークスへの<%br>恨みや、憎しみや殺意は……<%br>彼らを生み出した<%br>その実験や目的のせいだと<%br>そう、感じていました……",
 		"tr_text": "We felt that their hatred and<%br>resentment towards ARKS<%br>must have been instilled by<%br>those who created and<%br>experimented on them...",
 		"fileID": 5
@@ -19514,7 +19514,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "だけど、誰かが誰かを恨んだり<%br>誰かが誰かを憎んだり<%br>敵意や悪意は……<%br>どこからともなくやってくる<%br>わけじゃない……",
 		"tr_text": "However, resentment and<%br>hatred are not feelings that<%br>just appear out of nowhere...",
 		"fileID": 5
@@ -19554,7 +19554,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "生きる場所",
 		"tr_text": "Places to Live",
 		"fileID": 5
@@ -19930,9 +19930,9 @@
 	{
 		"eventNo": "17",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -20810,9 +20810,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -21170,9 +21170,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -22290,9 +22290,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -22410,9 +22410,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -23290,9 +23290,9 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -23330,7 +23330,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "―ファーン　ファーン　ファーン―",
 		"tr_text": "--Beep - Beep - Beep--",
 		"fileID": 5
@@ -24018,17 +24018,17 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -24202,7 +24202,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ーーーーーー！",
 		"tr_text": "------!",
 		"fileID": 5
@@ -24210,7 +24210,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ーーーーーーーー！！",
 		"tr_text": "--------!!",
 		"fileID": 5
@@ -24218,7 +24218,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "俺は堅い箱の中で<%br>ただただ、生き物の<%br>断末魔を聞いていた。<%br>白衣の人間が<%br>それについて語る言葉も。",
 		"tr_text": "Stuck in a cell, all I heard was<%br>living creatures crying out in<%br>agony as their lives ended.<%br>And the words exchanged<%br>by the men in white coats<%br>regarding the matter.",
 		"fileID": 5
@@ -24226,7 +24226,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "その会話で分かったことは<%br>白衣の人間は<%br>ある実験をしていた。<%br>エネミーに<%br>人体と、人格を与える実験。",
 		"tr_text": "Listening to their conversations,<%br>I learned about their experiment.<%br>They were attempting to give<%br>enemies human minds and bodies.",
 		"fileID": 5
@@ -24250,7 +24250,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "毎日毎日<%br>生き物の最後の声を聞いて<%br>俺は心が死んでいった……",
 		"tr_text": "Day after day...<%br>listening to living creatures<%br>give their last breath...<%br>My heart gradually died...",
 		"fileID": 5
@@ -24258,7 +24258,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "その実験で<%br>唯一成功したのが……",
 		"tr_text": "The only successful<%br>result from that<%br>experiment was...",
 		"fileID": 5
@@ -24266,9 +24266,9 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -24314,7 +24314,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "唯一成功したのが<%br>マギサ・メデューナを<%br>元に作られた<%br>アナティスだった。",
 		"tr_text": "The only success was Anatis,<%br>who was formerly a<%br>Magisa Meduna.",
 		"fileID": 5
@@ -24714,9 +24714,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25306,9 +25306,9 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25346,9 +25346,9 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25722,9 +25722,9 @@
 	{
 		"eventNo": "23",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25746,9 +25746,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25850,9 +25850,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -25866,17 +25866,17 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26002,9 +26002,9 @@
 	{
 		"eventNo": "32",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26042,15 +26042,15 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "気が付けば、真っ白な<%br>明るい場所に居た。<%br>光で目が痛く<%br>頭がじんじんとした。",
 		"tr_text": "When I came to, I was<%br>in a bright white room.<%br>My head was ringing and<%br>my eyes were in pain.",
 		"fileID": 5
@@ -26058,7 +26058,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "上手く呼吸もできずにいると<%br>男の声が聞こえ<%br>私の名前を教えてくれた。",
 		"tr_text": "While trying to catch my<%br>breath, I heard a man's<%br>voice telling me my name.",
 		"fileID": 5
@@ -26066,7 +26066,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ここは、人間の欲望のために<%br>命が弄ばれ<%br>捨てられる場所だ。<%br>私は恐ろしかったが<%br>男……ヘイドがいてくれた。",
 		"tr_text": "This place is where humans<%br>toy with lives and throw lives<%br>away for their own desires.<%br>I was afraid, but this man...<%br>Hade was with me.",
 		"fileID": 5
@@ -26074,7 +26074,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "人と同じ姿に変えられた後も<%br>実験は繰り返された。<%br>隣の部屋でも<%br>その隣の部屋でも<%br>生き物の死んでいく声がした。",
 		"tr_text": "The experiments continued<%br>after being transformed<%br>into a human-like body.<%br>You could hear creatures<%br>screaming their dying<%br>breaths in neighboring rooms.",
 		"fileID": 5
@@ -26282,17 +26282,17 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "32",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26314,7 +26314,7 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "生きる場所",
 		"tr_text": "Places to Live",
 		"fileID": 5
@@ -26466,15 +26466,15 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "19",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "こうして、わたし達のチームとしての<%br>任務が幕を閉じました。",
 		"tr_text": "And so, our team's case<%br>was brought to a close.",
 		"fileID": 5
@@ -26482,7 +26482,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "あれから、レヴィを救うために<%br>フェルやダンテ達も<%br>アークスに自ら捕まりに来ました。<%br>現在、アネットさんがレヴィを<%br>助けようと懸命に治療をしています。",
 		"tr_text": "Fel and Dante turned<%br>themselves in to save Levi.<%br>Annette is currently working<%br>on a treatment for Levi.",
 		"fileID": 5
@@ -26490,7 +26490,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "それと、ブルーノさんが<%br>教えてくれました。第三研究所が<%br>発見されたことで、わかったことが<%br>いくつかあるそうです。",
 		"tr_text": "Also, Bruno informed me<%br>that there were a number<%br>of findings as a result of the<%br>Third Lab being discovered.",
 		"fileID": 5
@@ -26498,7 +26498,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "今まで全員死亡したとされていた<%br>E.M.A.の関係者が数名<%br>生存していることが発覚しました。",
 		"tr_text": "A number of individuals<%br>involved with E.M.A.<%br>were discovered<%br>to be alive.",
 		"fileID": 5
@@ -26506,7 +26506,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "どうやら、職員として登録されず<%br>免れていた人間もいたようです。<%br>これによって、その人物の処罰を含め<%br>E.M.A.で行われた全容が<%br>明らかになると言っていました。",
 		"tr_text": "They were not registered<%br>as employees and were<%br>therefore spared.<%br>We will be able to get<%br>the full story of what<%br>transpired at E.M.A.",
 		"fileID": 5
@@ -26514,7 +26514,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "それで、ヘイドやアナティスに<%br>殺意を与えた……<%br>その原因が……悪意が……<%br>どうか少しでも解明され<%br>解決されると信じています。",
 		"tr_text": "I believe we will be<%br>able to unravel and<%br>resolve the causes which<%br>drove Hade and Anatis<%br>to such hatred.",
 		"fileID": 5
@@ -26626,9 +26626,9 @@
 	{
 		"eventNo": "37",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26650,9 +26650,9 @@
 	{
 		"eventNo": "40",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26698,9 +26698,9 @@
 	{
 		"eventNo": "46",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
@@ -26810,15 +26810,15 @@
 	{
 		"eventNo": "60",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "  ",
 		"tr_text": "",
 		"fileID": 5
@@ -26826,15 +26826,15 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ジェネ<%br>雨宮 天",
 		"tr_text": "Gene<%br>Sora Amamiya",
 		"fileID": 5
@@ -26842,7 +26842,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "デュナ<%br>久野 美咲",
 		"tr_text": "Duna<%br>Misaki Kuno",
 		"fileID": 5
@@ -26850,7 +26850,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "モア<%br>金田 朋子",
 		"tr_text": "More<%br>Tomoko Kaneda",
 		"fileID": 5
@@ -26858,7 +26858,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "アネット<%br>佳村 はるか",
 		"tr_text": "Annette<%br>Haruka Yoshimura",
 		"fileID": 5
@@ -26866,7 +26866,7 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ブルーノ<%br>神原 大地",
 		"tr_text": "Bruno<%br>Daichi Kanbara",
 		"fileID": 5
@@ -26874,7 +26874,7 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "シュトラ<%br>天﨑 滉平",
 		"tr_text": "Stra<%br>Kouhei Amasaki",
 		"fileID": 5
@@ -26882,7 +26882,7 @@
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "カラミティ<%br>間島 淳司",
 		"tr_text": "Calamity<%br>Junji Majima",
 		"fileID": 5
@@ -26890,7 +26890,7 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "セラフィ<%br>喜多村 英梨",
 		"tr_text": "Seraphy<%br>Eri Kitamura",
 		"fileID": 5
@@ -26898,7 +26898,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "アナティス<%br>名塚 佳織",
 		"tr_text": "Anatis<%br>Kaori Nazuka",
 		"fileID": 5
@@ -26906,7 +26906,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ヘイド<%br>安元 洋貴",
 		"tr_text": "Hade<%br>Hiroki Yasumoto",
 		"fileID": 5
@@ -26914,7 +26914,7 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "フェル<%br>飯田 友子",
 		"tr_text": "Fel<%br>Yuko Iida",
 		"fileID": 5
@@ -26922,7 +26922,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "クシャネビュラ<%br>飯田 友子",
 		"tr_text": "Kuscha Nebula<%br>Yuko Iida",
 		"fileID": 5
@@ -26930,7 +26930,7 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "クーナ<%br>喜多村 英梨",
 		"tr_text": "Quna<%br>Eri Kitamura",
 		"fileID": 5
@@ -26938,15 +26938,15 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "チーフディレクター<%br>陳 智政<%br><%br>ディレクター<%br>後藤 功士<%br><%br>運営開発ディレクター<%br>池城 直幸",
 		"tr_text": "Chief Director<%br>陳 智政<%br><%br>Director<%br>後藤 功士<%br><%br>Management Development Director<%br>池城 直幸",
 		"fileID": 5
@@ -26954,7 +26954,7 @@
 	{
 		"eventNo": "17",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プランニングリーダー<%br>宍戸 隆人<%br><%br>プログラムリーダー<%br>熊澤 佑太<%br><%br>デザインリーダー<%br>伊藤 洋実",
 		"tr_text": "Planning Leader<%br>宍戸 隆人<%br><%br>Programming Leader<%br>熊澤 佑太<%br><%br>Design Leader<%br>伊藤 洋実",
 		"fileID": 5
@@ -26962,7 +26962,7 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プランニング<%br>見延 陽介<%br>森谷 忠明<%br>秦 成志朗<%br>石賀 久美子<%br>長山 結衣",
 		"tr_text": "Planning<%br>見延 陽介<%br>森谷 忠明<%br>秦 成志朗<%br>石賀 久美子<%br>長山 結衣",
 		"fileID": 5
@@ -26970,7 +26970,7 @@
 	{
 		"eventNo": "19",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プログラム<%br>鈴木 祐輔<%br>梅田 陽平<%br>髙砂 邦永<%br>亀尾 司",
 		"tr_text": "Programming<%br>鈴木 祐輔<%br>梅田 陽平<%br>髙砂 邦永<%br>亀尾 司",
 		"fileID": 5
@@ -26978,7 +26978,7 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "小山 耀平<%br>蛭川 祐次<%br>内田 一樹<%br>安倉 剛司<%br>藤本 大介",
 		"tr_text": "",
 		"fileID": 5
@@ -26986,7 +26986,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "デザイン<%br>早川 民洋<%br><%br>運営<%br>石倉 力<%br>田野瀬 健一<%br>上田 耕助<%br>成田 瑞穂",
 		"tr_text": "Design<%br>早川 民洋<%br><%br>Management<%br>石倉 力<%br>田野瀬 健一<%br>上田 耕助<%br>成田 瑞穂",
 		"fileID": 5
@@ -26994,7 +26994,7 @@
 	{
 		"eventNo": "22",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "シナリオ<%br>能瀬 良子<%br>横山 快<%br>白川 嘘一郎",
 		"tr_text": "Scenario<%br>能瀬 良子<%br>横山 快<%br>白川 嘘一郎",
 		"fileID": 5
@@ -27002,7 +27002,7 @@
 	{
 		"eventNo": "23",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "株式会社ピンスリープ<%br>でこくーる<%br>泉 りお<%br>鈴木 穂高<%br>郡具 もえ",
 		"tr_text": "PINSLEEP Inc.<%br>decocooln<%br>泉 りお<%br>鈴木 穂高<%br>郡具 もえ",
 		"fileID": 5
@@ -27010,7 +27010,7 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "シナリオ工房　月光<%br>おかやまかずひと<%br>加納 京太<%br>赤井 景<%br>掛橋 敬義<%br>祥田",
 		"tr_text": "Scenario Studio Gekko<%br>Kazuhito Okayama<%br>京太 Kano<%br>景 Akai<%br>敬義 Kakehashi<%br>Yoshida",
 		"fileID": 5
@@ -27018,7 +27018,7 @@
 	{
 		"eventNo": "25",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "テクニカルアーティスト<%br>緒方 修<%br>林 聡",
 		"tr_text": "Technical Artists<%br>緒方 修<%br>林 聡",
 		"fileID": 5
@@ -27026,7 +27026,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "WEB制作<%br>石坂 太一<%br>古川 貢輔<%br>喰代 慶多<%br>岡本 小雪<%br>辻村 未紗",
 		"tr_text": "Web Production<%br>石坂 太一<%br>古川 貢輔<%br>喰代 慶多<%br>岡本 小雪<%br>辻村 未紗",
 		"fileID": 5
@@ -27034,7 +27034,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "サウンドディレクター<%br>小林 秀聡",
 		"tr_text": "Sound Director<%br>Hideaki Kobayashi",
 		"fileID": 5
@@ -27042,7 +27042,7 @@
 	{
 		"eventNo": "28",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "音楽<%br>小林 秀聡<%br>床井 健一<%br>絹川 唯史<%br><%br>効果音<%br>幸崎 達哉<%br>小林 秀聡",
 		"tr_text": "Music<%br>Hideaki Kobayashi<%br>Kenichi Tokoi<%br>Tadashi Kinukawa<%br><%br>Sound Effects<%br>Tatsuya Kouzaki<%br>Hideaki Kobayashi",
 		"fileID": 5
@@ -27050,7 +27050,7 @@
 	{
 		"eventNo": "29",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "エス・エー・エス株式会社<%br><%br>チーフマネージャー<%br>梅木 元博<%br><%br>ディレクター<%br>水越 俊一",
 		"tr_text": "SAS Ltd.<%br><%br>Chief Manager<%br>梅木 元博<%br><%br>Director<%br>水越 俊一",
 		"fileID": 5
@@ -27058,7 +27058,7 @@
 	{
 		"eventNo": "30",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プランニング<%br>渡辺 誠<%br>長谷川 智也",
 		"tr_text": "Planning<%br>渡辺 誠<%br>長谷川 智也",
 		"fileID": 5
@@ -27066,7 +27066,7 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プログラム<%br>別宮 智明<%br>松田 維織<%br>今井 裕行<%br>池田 義宣<%br>富樫 吏",
 		"tr_text": "Programming<%br>別宮 智明<%br>松田 維織<%br>今井 裕行<%br>池田 義宣<%br>富樫 吏",
 		"fileID": 5
@@ -27074,7 +27074,7 @@
 	{
 		"eventNo": "32",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "デザイン<%br>佐藤 永<%br>佐藤 友宏<%br>坂本 栄美<%br>仲島 宏典<%br>川口 和雅<%br>橋浦 徹（株式会社ゼクス）",
 		"tr_text": "Design<%br>佐藤 永<%br>佐藤 友宏<%br>坂本 栄美<%br>仲島 宏典<%br>川口 和雅<%br>橋浦 徹 (株式会社ゼクス)",
 		"fileID": 5
@@ -27082,7 +27082,7 @@
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "セガゲームススタッフ",
 		"tr_text": "SEGA Games Staff",
 		"fileID": 5
@@ -27090,7 +27090,7 @@
 	{
 		"eventNo": "34",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プロジェクトマネージメント<%br>村元 徹<%br>中野 淳也<%br>吉原 琢朗<%br>長廻 孝行<%br>田村 健<%br>清末 逸人<%br>小嶋 仁",
 		"tr_text": "Project Management<%br>村元 徹<%br>中野 淳也<%br>吉原 琢朗<%br>長廻 孝行<%br>田村 健<%br>清末 逸人<%br>小嶋 仁",
 		"fileID": 5
@@ -27098,7 +27098,7 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "マーケティング<%br>青木 優介<%br><%br>ＰＲ<%br>児玉 守<%br>川崎 玲",
 		"tr_text": "Marketing<%br>青木 優介<%br><%br>PR<%br>児玉 守<%br>川崎 玲",
 		"fileID": 5
@@ -27106,7 +27106,7 @@
 	{
 		"eventNo": "36",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "テクニカルサポートチーム<%br>吉田 愛<%br>熊谷 達也<%br>和久田 浩祐",
 		"tr_text": "Technical Support Team<%br>吉田 愛<%br>熊谷 達也<%br>和久田 浩祐",
 		"fileID": 5
@@ -27114,7 +27114,7 @@
 	{
 		"eventNo": "37",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ネットワーク品質管理チーム<%br>高橋 祐貴<%br>市川 真也<%br>堀 翼<%br>池田 勇貴<%br>田中 裕人<%br>大谷 健志<%br>鳴澤 優里香",
 		"tr_text": "Network Quality Management Team<%br>高橋 祐貴<%br>市川 真也<%br>堀 翼<%br>池田 勇貴<%br>田中 裕人<%br>大谷 健志<%br>鳴澤 優里香",
 		"fileID": 5
@@ -27122,7 +27122,7 @@
 	{
 		"eventNo": "38",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "渡部 哲也<%br>阿部 夏輝<%br>町田 治久<%br>相樂 祐史<%br>加藤 由佳梨<%br>萩原 亜矢",
 		"tr_text": "",
 		"fileID": 5
@@ -27130,7 +27130,7 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プロダクトサポートチーム<%br>西川 彰<%br>川崎 豊<%br>板東 正人<%br>丸山 大輔<%br>井上 秀兵<%br>宮永 俊介",
 		"tr_text": "Product Support Team<%br>西川 彰<%br>川崎 豊<%br>板東 正人<%br>丸山 大輔<%br>井上 秀兵<%br>宮永 俊介",
 		"fileID": 5
@@ -27138,7 +27138,7 @@
 	{
 		"eventNo": "40",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "品質保証部<%br>梶 智樹<%br>船水 千秋<%br>川瀬 泰久<%br><%br>ＶＯＣチーム<%br>岡田 淳良<%br>田中 滋樹",
 		"tr_text": "Quality Assurance Department<%br>梶 智樹<%br>船水 千秋<%br>川瀬 泰久<%br><%br>VOC Team<%br>岡田 淳良<%br>田中 滋樹",
 		"fileID": 5
@@ -27146,7 +27146,7 @@
 	{
 		"eventNo": "41",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "株式会社デジタルハーツ",
 		"tr_text": "DIGITAL HEARTS Co., Ltd.",
 		"fileID": 5
@@ -27154,7 +27154,7 @@
 	{
 		"eventNo": "42",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "スペシャルサンクス<%br>佐藤 高一<%br>堀 修<%br>髙橋 保裕<%br>佐藤 勝彦<%br>中山 雅晴<%br>中村 圭介<%br>松波 進也<%br>棚瀬 健一",
 		"tr_text": "Special Thanks<%br>佐藤 高一<%br>堀 修<%br>髙橋 保裕<%br>佐藤 勝彦<%br>中山 雅晴<%br>中村 圭介<%br>松波 進也<%br>棚瀬 健一",
 		"fileID": 5
@@ -27162,7 +27162,7 @@
 	{
 		"eventNo": "43",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "村山 健司<%br>沼澤 大介<%br>上園 絵理砂<%br>鈴木 由紀子<%br>濱崎 大輝<%br>菅沼 裕<%br>高野 敦子<%br>小嶋 宣昌<%br>川合 隆",
 		"tr_text": "",
 		"fileID": 5
@@ -27170,7 +27170,7 @@
 	{
 		"eventNo": "44",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "佐藤 譲二<%br>根本 慈子<%br>高橋 広樹<%br>今井 達弘<%br>節政 暁生<%br>遠藤 久志<%br>竹田 智<%br>中戸川 清<%br>橋本 篤士",
 		"tr_text": "",
 		"fileID": 5
@@ -27178,7 +27178,7 @@
 	{
 		"eventNo": "45",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "戸谷 弘一<%br>中田 裕樹<%br>安藤 毅<%br>坂本 隆<%br>志賀 直秀<%br>大森 智<%br>ディアス・ササキ・カルロス・サロモン<%br>柳田 人志<%br>藤村 惣一郎",
 		"tr_text": "",
 		"fileID": 5
@@ -27186,7 +27186,7 @@
 	{
 		"eventNo": "46",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "片山 晋平<%br>宇髙 遼司<%br>南澤 雄一<%br>吉岡 哲生<%br>深澤 貴紀<%br>池谷 章<%br>荒井 悟<%br>山元 佳之<%br>玉村 道一",
 		"tr_text": "",
 		"fileID": 5
@@ -27194,7 +27194,7 @@
 	{
 		"eventNo": "47",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "飯田 牧子<%br>飯田 岳士<%br>木村 大蔵<%br>陸浦 昌<%br>岡崎 達郎<%br>谷野 洋記<%br>堀 彩乃<%br>富井 健太郎<%br>今井 邦彦　",
 		"tr_text": "",
 		"fileID": 5
@@ -27202,7 +27202,7 @@
 	{
 		"eventNo": "48",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "熊澤 南<%br>小川 かおり<%br>八日市屋 英樹<%br>佐藤 遼太郎<%br>金子 紘也<%br>木崎 智行<%br>田中 伸吾<%br>岡部 城<%br>奥成 洋輔",
 		"tr_text": "",
 		"fileID": 5
@@ -27210,7 +27210,7 @@
 	{
 		"eventNo": "49",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "メインキャラクターデザイン<%br>Nidy-2D-<%br><%br>サブキャラクターデザイン<%br>Fu-mi.A",
 		"tr_text": "Main Character Design<%br>Nidy-2D-<%br><%br>Sub Character Design<%br>Fu-mi.A",
 		"fileID": 5
@@ -27218,7 +27218,7 @@
 	{
 		"eventNo": "50",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "株式会社 東北新社<%br><%br>音響監督<%br>木村 絵理子<%br><%br>プロデューサー<%br>大野 拓也",
 		"tr_text": "Tohokushinsha Film Co.<%br><%br>Sound Director<%br>Eriko Kimura<%br><%br>Producer<%br>Takuya Ohno",
 		"fileID": 5
@@ -27226,7 +27226,7 @@
 	{
 		"eventNo": "51",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "有限会社 エックスワン<%br><%br>音響監督<%br>鳥島 和也",
 		"tr_text": "X-1 Co. Ltd.<%br><%br>Sound Director<%br>鳥島 和也",
 		"fileID": 5
@@ -27234,7 +27234,7 @@
 	{
 		"eventNo": "52",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "ストーリーメインキャスト<%br>雨宮 天<%br>久野 美咲<%br>安元 洋貴<%br>名塚 佳織<%br>金田 朋子<%br>喜多村 英梨<%br>佳村 はるか<%br>神原 大地",
 		"tr_text": "Story Main Cast<%br>Sora Amamiya<%br>Misaki Kuno<%br>Hiroki Yasumoto<%br>Kaori Nazuka<%br>Tomoko Kaneda<%br>Eri Kitamura<%br>Haruka Yoshimura<%br>Daichi Kanbara",
 		"fileID": 5
@@ -27242,7 +27242,7 @@
 	{
 		"eventNo": "53",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "緑川 光<%br>岩澤 俊樹　<%br>巽 悠衣子<%br>飯田 友子<%br>梶 裕貴<%br>天﨑 滉平<%br>間島 淳司",
 		"tr_text": "Hikaru Midorikawa<%br>Toshiki Iwasawa<%br>Yuiko Tatsumi<%br>Yuko Iida<%br>Yuki Kaji<%br>Kouhei Amasaki<%br>Junji Majima",
 		"fileID": 5
@@ -27250,7 +27250,7 @@
 	{
 		"eventNo": "54",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "挿入歌　「籠の中の子守歌」<%br>歌詞　mavie<%br>音楽　小林 秀聡<%br>歌　nino<%br><%br>レコーディングエンジニア<%br>櫻井 直樹",
 		"tr_text": "Insert Song \"Lullaby from a Cage\"<%br>Lyrics: mavie<%br>Music: Hideaki Kobayashi<%br>Vocals: nino<%br><%br>Recording Engineer<%br>櫻井 直樹",
 		"fileID": 5
@@ -27258,7 +27258,7 @@
 	{
 		"eventNo": "55",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "プロデューサー<%br>田中 俊太郎",
 		"tr_text": "Producer<%br>Shuntaro Tanaka",
 		"fileID": 5
@@ -27266,7 +27266,7 @@
 	{
 		"eventNo": "56",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "リリースディレクター<%br>松井 工<%br><%br>シリーズアートディレクター<%br>水野 暁一<%br><%br>シリーズ運営開発ディレクター<%br>増山 寛章",
 		"tr_text": "Release Director<%br>Takumi Matsui<%br><%br>Series Art Director<%br>水野 暁一<%br><%br>Series Management Development Director<%br>増山 寛章",
 		"fileID": 5
@@ -27274,7 +27274,7 @@
 	{
 		"eventNo": "57",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "シリーズディレクター<%br>木村 裕也<%br><%br>シリーズプロデューサー<%br>酒井 智史",
 		"tr_text": "Series Director<%br>Yuya Kimura<%br><%br>Series Producer<%br>Satoshi Sakai",
 		"fileID": 5
@@ -27282,7 +27282,7 @@
 	{
 		"eventNo": "58",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "シニアプロデューサー<%br>西山 彰則",
 		"tr_text": "Senior Programmer<%br>Akinori Nishiyama",
 		"fileID": 5
@@ -27290,7 +27290,7 @@
 	{
 		"eventNo": "59",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "チーフプロデューサー<%br>瀬川 隆哉",
 		"tr_text": "Chief Producer<%br>Takaya Segawa",
 		"fileID": 5
@@ -27298,7 +27298,7 @@
 	{
 		"eventNo": "60",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "エグゼクティブスーパーバイザー<%br>松原 健二<%br>名越 稔洋",
 		"tr_text": "Executive Supervisors<%br>Kenji Matsubara<%br>Toshihiro Nagoshi",
 		"fileID": 5
@@ -27306,7 +27306,7 @@
 	{
 		"eventNo": "61",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "エグゼクティブプロデューサー<%br>里見 治紀",
 		"tr_text": "Executive Producer<%br>Haruki Satomi",
 		"fileID": 5
@@ -27314,33 +27314,33 @@
 	{
 		"eventNo": "62",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "63",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "64",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{
 		"eventNo": "65",
 		"jp_name": "",
-		"tr_name": "",
+		"tr_name": ""
 		"jp_text": "",
-		"tr_text": "",
+		"tr_text": ""
 		"fileID": 5
 	},
 	{

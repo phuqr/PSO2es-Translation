@@ -1,0 +1,162 @@
+[
+	{
+		"assign": "Forest",
+		"jp_text": "ef_01_forest",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "LavaCave",
+		"jp_text": "ef_02_volcano",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "City",
+		"jp_text": "ef_05_cityarea",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "UnderCity",
+		"jp_text": "ef_21_UnderCity",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "esAzito3",
+		"jp_text": "ef_21_UnderCity",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Desert",
+		"jp_text": "ef_04_desert",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Quarry",
+		"jp_text": "ef_15_digging",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Iceberg",
+		"jp_text": "ef_03_frozensoil",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Mine",
+		"jp_text": "ef_08_undertunnel",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "ULTShaft",
+		"jp_text": "ef_18_ULTShaft",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "esDesert",
+		"jp_text": "ef_19_esDesert",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "esDesert2",
+		"jp_text": "ef_20_esDesert2",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Ruins",
+		"jp_text": "ef_07_remains",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "esAzito",
+		"jp_text": "ef_13_secretlabo",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "esAzito2",
+		"jp_text": "ef_16_Seabed",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "AnotisSpace",
+		"jp_text": "ef_16_Seabed",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Dragon",
+		"jp_text": "ef_06_air",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Altar",
+		"jp_text": "ef_14_altar",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "TerritoryofBlack",
+		"jp_text": "ef_17_TerritoryofBlack",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Dimension",
+		"jp_text": "-",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "PlayGround",
+		"jp_text": "-",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Stadium",
+		"jp_text": "-",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Ruins2",
+		"jp_text": "ef_08_darkernest",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "VR",
+		"jp_text": "ef_10_vr",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Coast",
+		"jp_text": "ef_09_corst",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Seabed",
+		"jp_text": "ef_16_Seabed",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "ArksShip",
+		"jp_text": "ef_11_arksship",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "EmargencyLobby",
+		"jp_text": "ef_12_emargencylobby",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "SeriesQuest",
+		"jp_text": "bg_lobby_series",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "TrashShip",
+		"jp_text": "ef_08_darkernest",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "LoadSpace",
+		"jp_text": "ef_08_darkernest",
+		"tr_text": "replace with blank"
+	},
+	{
+		"assign": "Event",
+		"jp_text": "-",
+		"tr_text": "replace with blank"
+	}
+]
