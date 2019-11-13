@@ -352,141 +352,141 @@
 	{
 		"assign": "50",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "51",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "52",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "53",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "54",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "55",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "56",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "57",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "58",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "59",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "60",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "61",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "62",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "63",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "64",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "65",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "66",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "67",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "68",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "69",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	}
 ]

@@ -947,35 +947,35 @@
 	{
 		"assign": "135",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "136",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "137",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "138",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "139",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},

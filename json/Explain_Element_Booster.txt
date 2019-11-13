@@ -851,7 +851,7 @@
 		"jp_text": "ENT_02ソール",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "122",
@@ -949,7 +949,7 @@
 		"jp_text": "ENT_フィーバー08",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "136",
@@ -1059,107 +1059,107 @@
 	{
 		"assign": "151",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "152",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "153",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "154",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "155",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "156",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "157",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "158",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "159",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "160",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "161",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "162",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "163",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "164",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "165",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "166",
@@ -1192,37 +1192,37 @@
 	{
 		"assign": "170",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "171",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "172",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "173",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "174",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "175",
@@ -1257,154 +1257,154 @@
 		"jp_text": "打撃アップ",
 		"tr_text": "S-ATK Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "180",
 		"jp_text": "射撃アップ",
 		"tr_text": "R-ATK Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "181",
 		"jp_text": "法撃アップ",
 		"tr_text": "T-ATK Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "182",
 		"jp_text": "技量アップ",
 		"tr_text": "DEX Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "183",
 		"jp_text": "ＨＰアップ",
 		"tr_text": "HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "184",
 		"jp_text": "ＰＰアップ",
 		"tr_text": "PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "185",
 		"jp_text": "打撃ＨＰアップ",
 		"tr_text": "Strike HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "186",
 		"jp_text": "射撃ＨＰアップ",
 		"tr_text": "Ranged HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "187",
 		"jp_text": "法撃ＨＰアップ",
 		"tr_text": "Tech HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "188",
 		"jp_text": "技量ＨＰアップ",
 		"tr_text": "DEX HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "189",
 		"jp_text": "打撃ＰＰアップ",
 		"tr_text": "Strike PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "190",
 		"jp_text": "射撃ＰＰアップ",
 		"tr_text": "Ranged PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "191",
 		"jp_text": "法撃ＰＰアップ",
 		"tr_text": "Tech PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "192",
 		"jp_text": "技量ＰＰアップ",
 		"tr_text": "DEX PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "193",
 		"jp_text": "ＨＰＰＰアップ",
 		"tr_text": "HP PP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "194",
 		"jp_text": "ＰＰＨＰアップ",
 		"tr_text": "PP HP Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "195",
 		"jp_text": "打撃射撃アップ",
 		"tr_text": "Strike and Ranged Atk Up",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "196",
 		"jp_text": "打撃法撃アップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "197",
 		"jp_text": "打撃技量アップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "198",
 		"jp_text": "射撃法撃アップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "199",
 		"jp_text": "射撃技量アップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "200",
 		"jp_text": "法撃技量アップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "201",
@@ -1446,21 +1446,21 @@
 		"jp_text": "ペットスタミナⅠ",
 		"tr_text": "Pet Stamina I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "207",
 		"jp_text": "ペットスタミナⅡ",
 		"tr_text": "Pet Stamina II",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "208",
 		"jp_text": "ペットスタミナⅢ",
 		"tr_text": "Pet Stamina III",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "209",
@@ -1474,56 +1474,56 @@
 		"jp_text": "ペットボディⅡ",
 		"tr_text": "Pet Body II",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "211",
 		"jp_text": "ペットボディⅢ",
 		"tr_text": "Pet Body III",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "212",
 		"jp_text": "ペットリアクトⅠ",
 		"tr_text": "Pet React I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "213",
 		"jp_text": "ペットリアクトⅡ",
 		"tr_text": "Pet React II",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "214",
 		"jp_text": "ペットリアクトⅢ",
 		"tr_text": "Pet React III",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "215",
 		"jp_text": "ペットマインドⅠ",
 		"tr_text": "Pet Mind I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "216",
 		"jp_text": "ペットマインドⅡ",
 		"tr_text": "Pet Mind II",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "217",
 		"jp_text": "ペットマインドⅢ",
 		"tr_text": "Pet Mind III",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "218",
@@ -1649,7 +1649,7 @@
 		"jp_text": "打射法撃ＰＰアップ",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "236",
@@ -1719,7 +1719,7 @@
 		"jp_text": "バトルライフルⅠ",
 		"tr_text": "Battle Rifle I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "246",
@@ -1740,7 +1740,7 @@
 		"jp_text": "バトルロッドⅠ",
 		"tr_text": "Battle Rod I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "249",
@@ -1782,7 +1782,7 @@
 		"jp_text": "バトルＴマシンガンⅠ",
 		"tr_text": "Battle T. Machinegun I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "255",
@@ -1803,7 +1803,7 @@
 		"jp_text": "バトルボウⅠ",
 		"tr_text": "Battle Bow I",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "258",
@@ -1824,7 +1824,7 @@
 		"jp_text": "poka19",
 		"tr_text": "",
 		"jp_explain": "---",
-		"tr_explain": "---"
+		"tr_explain": ""
 	},
 	{
 		"assign": "261",
@@ -2466,42 +2466,42 @@
 	{
 		"assign": "352",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "353",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "354",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "355",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "356",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},
 	{
 		"assign": "357",
 		"jp_text": "-",
-		"tr_text": "-",
+		"tr_text": "",
 		"jp_explain": "-",
 		"tr_explain": ""
 	},

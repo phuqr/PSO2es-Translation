@@ -42,7 +42,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=65>クラン　オブ　ネメシス&スレイヴ<%br>－ The 1st Record －<%br>運命は咆哮し嵐が来たる</size>",
 		"tr_text": "",
 		"fileID": 1
@@ -426,9 +426,9 @@
 	{
 		"eventNo": "25",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -466,7 +466,7 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ズゥゥゥゥ……ン―",
 		"tr_text": "",
 		"fileID": 1
@@ -882,9 +882,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -988,7 +988,7 @@
 		"jp_name": "ネメシスクーガ",
 		"tr_name": "Nemesis Kuuga",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1036,7 +1036,7 @@
 		"jp_name": "ネメシスセイバー",
 		"tr_name": "Nemesis Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1140,7 +1140,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1148,7 +1148,7 @@
 		"jp_name": "？？？",
 		"tr_name": "???",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"jp_buttons": [
 			"誰だ？",
 			"お前がやったのか？"
@@ -1314,9 +1314,9 @@
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1348,7 +1348,7 @@
 		"jp_name": "ネメシスセイバー",
 		"tr_name": "Nemesis Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1618,17 +1618,17 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1778,9 +1778,9 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1938,7 +1938,7 @@
 	{
 		"eventNo": "40",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=65>クラン　オブ　ネメシス&スレイヴ<%br>The ２nd Record</size>",
 		"tr_text": "",
 		"fileID": 1
@@ -1962,7 +1962,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=65>クラン　オブ　ネメシス&スレイヴ<%br>－ The 2nd Record －<%br>争いは連鎖し運命は廻る</size>",
 		"tr_text": "",
 		"fileID": 2
@@ -2460,7 +2460,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -2682,9 +2682,9 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -2764,7 +2764,7 @@
 		"jp_name": "スレイヴクーガ",
 		"tr_name": "Slave Kuuga",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -3148,15 +3148,15 @@
 		"jp_name": "スレイヴセイバー",
 		"tr_name": "Slave Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -3188,7 +3188,7 @@
 		"jp_name": "スレイヴクーガ",
 		"tr_name": "Slave Kuuga",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -3794,9 +3794,9 @@
 	{
 		"eventNo": "41",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -3812,7 +3812,7 @@
 		"jp_name": "スレイヴフェザー",
 		"tr_name": "Slave Feather",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -3890,7 +3890,7 @@
 	{
 		"eventNo": "53",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=65>クラン　オブ　ネメシス&スレイヴ<%br>The ３ｒd Record</size>",
 		"tr_text": "",
 		"fileID": 2
@@ -3932,7 +3932,7 @@
 		"jp_name": "スレイヴセイバー",
 		"tr_name": "Slave Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -4002,9 +4002,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -4066,7 +4066,7 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=65>クラン　オブ　ネメシス&スレイヴ<%br>－ The 3rd Record －<%br>悲劇は連環し争いは続く</size>",
 		"tr_text": "",
 		"fileID": 3
@@ -4938,9 +4938,9 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -5180,7 +5180,7 @@
 		"jp_name": "ジェネ",
 		"tr_name": "Gene",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -5668,7 +5668,7 @@
 		"jp_name": "スレイヴセイバー",
 		"tr_name": "Slave Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -5866,9 +5866,9 @@
 	{
 		"eventNo": "37",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -6442,9 +6442,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -6514,9 +6514,9 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7034,9 +7034,9 @@
 	{
 		"eventNo": "12",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7066,7 +7066,7 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ザシュッ！！―",
 		"tr_text": "",
 		"fileID": 3
@@ -7082,9 +7082,9 @@
 	{
 		"eventNo": "18",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7098,17 +7098,17 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7298,15 +7298,15 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
 		"eventNo": "22",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ドスッ！―",
 		"tr_text": "",
 		"fileID": 3
@@ -7500,7 +7500,7 @@
 		"jp_name": "ネメシスキャリバー",
 		"tr_name": "Nemesis Calibur",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7594,9 +7594,9 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7668,7 +7668,7 @@
 		"jp_name": "ネメシスセイバー",
 		"tr_name": "Nemesis Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7724,15 +7724,15 @@
 		"jp_name": "スレイヴセイバー",
 		"tr_name": "Slave Saber",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7874,9 +7874,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7930,17 +7930,17 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
 		"eventNo": "8",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8090,7 +8090,7 @@
 	{
 		"eventNo": "27",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=65>クラン　オブ　ネメシス&スレイヴ<%br>The Last Record</size>",
 		"tr_text": "",
 		"fileID": 3
@@ -8122,7 +8122,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=65>クラン　オブ　ネメシス&スレイヴ<%br>－ The Last Record －<%br>嵐は去り悲劇は終幕する</size>",
 		"tr_text": "",
 		"fileID": 4
@@ -8386,9 +8386,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 4
 	},
 	{
@@ -8514,9 +8514,9 @@
 	{
 		"eventNo": "17",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 4
 	},
 	{
@@ -9242,9 +9242,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 4
 	},
 	{
@@ -9466,9 +9466,9 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 4
 	},
 	{
@@ -9914,9 +9914,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 4
 	}
 ]

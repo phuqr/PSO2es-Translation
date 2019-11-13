@@ -3047,21 +3047,21 @@
 	{
 		"assign": "3190465",
 		"jp_text": "ＶＤ「一位なのに……！」",
-		"tr_text": "VD \"I'm First ...!\"",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃１３\n『ＶＤ「一位なのに……！」』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190466",
 		"jp_text": "Destiny",
-		"tr_text": "Destiny",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＥＯ ＃０１\n『Destiny』",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3190467",
 		"jp_text": "Timeless Fortune",
-		"tr_text": "Timeless Fortune",
+		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＥＯ ＃０２\n『Timeless Fortune』",
 		"tr_explain": ""
 	},

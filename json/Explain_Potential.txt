@@ -2662,35 +2662,35 @@
 	{
 		"assign": "2947001277",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"クリティカル率が\n6%上昇する。",
+		"tr_text": "",
 		"jp_explain": "クリティカル率が\n6%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2947001278",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"クリティカル率が\n7%上昇する。",
+		"tr_text": "",
 		"jp_explain": "クリティカル率が\n7%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2947001279",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"クリティカル率が\n8%上昇する。",
+		"tr_text": "",
 		"jp_explain": "クリティカル率が\n8%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2947001272",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"クリティカル率が\n9%上昇する。",
+		"tr_text": "",
 		"jp_explain": "クリティカル率が\n9%上昇する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2947001273",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"クリティカル率が\n10%上昇する。",
+		"tr_text": "",
 		"jp_explain": "クリティカル率が\n10%上昇する。",
 		"tr_explain": ""
 	},
@@ -4209,63 +4209,63 @@
 	{
 		"assign": "384474531",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384474532",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384474533",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384474534",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326222236",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326222237",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326222210",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326222211",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326222208",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4279,63 +4279,63 @@
 	{
 		"assign": "384454386",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384454389",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384454388",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "384454391",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326226285",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326226284",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326226195",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326226194",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326226193",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4377,35 +4377,35 @@
 	{
 		"assign": "326246526",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326246527",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326246496",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326246497",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326246498",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4447,35 +4447,35 @@
 	{
 		"assign": "326217935",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326217934",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326217969",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326217968",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326217971",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4517,35 +4517,35 @@
 	{
 		"assign": "326571115",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326571114",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326571117",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326571116",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326571119",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4587,35 +4587,35 @@
 	{
 		"assign": "326567034",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326567035",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326567036",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326567037",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326567038",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4629,63 +4629,63 @@
 	{
 		"assign": "385714509",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "385714510",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "385714511",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "385714496",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326596489",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326596488",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326596495",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326596494",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326596493",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4727,35 +4727,35 @@
 	{
 		"assign": "326591512",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326591513",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326591518",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326591519",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "326591516",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4867,35 +4867,35 @@
 	{
 		"assign": "2004090937",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004090936",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004090939",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004090938",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004090941",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -4937,35 +4937,35 @@
 	{
 		"assign": "2004111594",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004111595",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004111592",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004111593",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004111598",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5007,35 +5007,35 @@
 	{
 		"assign": "2004099355",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004099354",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004099353",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004099352",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004099359",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5077,35 +5077,35 @@
 	{
 		"assign": "2004219788",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004219791",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004219790",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004219785",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004219784",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5147,35 +5147,35 @@
 	{
 		"assign": "2004205629",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004205630",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004205631",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004205624",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004205625",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5217,35 +5217,35 @@
 	{
 		"assign": "2004096878",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004096877",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004096876",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004096875",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004096874",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5357,35 +5357,35 @@
 	{
 		"assign": "2004204045",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004204042",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004204043",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004204040",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2004204041",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5532,35 +5532,35 @@
 	{
 		"assign": "172268074",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172268075",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172268076",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172268077",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172268078",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5602,35 +5602,35 @@
 	{
 		"assign": "172256283",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172256282",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172256285",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172256284",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172256287",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5672,35 +5672,35 @@
 	{
 		"assign": "172260744",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172260745",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172260750",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172260751",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172260748",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5742,35 +5742,35 @@
 	{
 		"assign": "172248441",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172248440",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172248447",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172248446",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172248445",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5784,63 +5784,63 @@
 	{
 		"assign": "2469788694",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2469788697",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2469788696",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2469788699",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172252590",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172252585",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172252584",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172252587",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172252586",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5882,35 +5882,35 @@
 	{
 		"assign": "172239903",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172239896",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172239897",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172239898",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172239899",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -5952,35 +5952,35 @@
 	{
 		"assign": "172237580",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172237579",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172237578",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172237577",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "172237576",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6092,35 +6092,35 @@
 	{
 		"assign": "216329924",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216329925",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216329930",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216329931",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216329928",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6162,35 +6162,35 @@
 	{
 		"assign": "216235735",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216235734",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216235737",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216235736",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216235739",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6232,35 +6232,35 @@
 	{
 		"assign": "216207206",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216207207",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216207208",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216207209",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216207210",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6302,35 +6302,35 @@
 	{
 		"assign": "216372021",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216372022",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216372023",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216372016",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216372017",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6372,35 +6372,35 @@
 	{
 		"assign": "216376132",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216376135",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216376134",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216376129",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216376128",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6442,35 +6442,35 @@
 	{
 		"assign": "216216279",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216216276",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216216277",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216216274",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216216275",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6512,35 +6512,35 @@
 	{
 		"assign": "216318694",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216318693",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216318692",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216318691",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216318690",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6582,35 +6582,35 @@
 	{
 		"assign": "216355121",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216355120",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216355123",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216355122",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "216355125",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6624,63 +6624,63 @@
 	{
 		"assign": "2758565510",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758565511",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758565504",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758565505",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169979844",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169979845",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169979850",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169979851",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169979848",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6694,63 +6694,63 @@
 	{
 		"assign": "2758626487",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758626488",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758626489",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758626490",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170032277",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170032276",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170032283",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170032282",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170032281",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6792,35 +6792,35 @@
 	{
 		"assign": "3170035750",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170035749",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170035748",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170035747",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170035746",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6862,35 +6862,35 @@
 	{
 		"assign": "3169991031",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169991028",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169991029",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169991026",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3169991027",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6932,35 +6932,35 @@
 	{
 		"assign": "3170027972",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170027975",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170027974",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170027969",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170027968",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -6974,63 +6974,63 @@
 	{
 		"assign": "2758576189",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758576188",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758576191",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2758576190",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170015509",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170015510",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170015511",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170015504",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170015505",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7072,35 +7072,35 @@
 	{
 		"assign": "3170085154",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170085155",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170085152",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170085153",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170085158",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7142,35 +7142,35 @@
 	{
 		"assign": "3170040307",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170040306",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170040305",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170040304",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3170040311",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7219,63 +7219,63 @@
 	{
 		"assign": "110038441",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "110038440",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "110038443",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "110038442",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910039035",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910039034",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910039037",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910039036",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910039039",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7317,35 +7317,35 @@
 	{
 		"assign": "1910021260",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910021259",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910021258",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910021257",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910021256",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7359,63 +7359,63 @@
 	{
 		"assign": "109744752",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109744753",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109744754",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109744755",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910017309",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910017306",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910017307",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910017304",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910017305",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7429,63 +7429,63 @@
 	{
 		"assign": "109928801",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109928800",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109928803",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109928802",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910029678",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910029673",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910029672",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910029675",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910029674",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7499,63 +7499,63 @@
 	{
 		"assign": "109932818",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109932819",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109932816",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "109932817",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910025599",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910025592",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910025593",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910025594",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910025595",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7597,35 +7597,35 @@
 	{
 		"assign": "1910069380",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910069381",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910069382",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910069383",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910069400",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7667,35 +7667,35 @@
 	{
 		"assign": "1910065301",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910065300",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910065303",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910065302",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910065321",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7737,35 +7737,35 @@
 	{
 		"assign": "1910077542",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910077543",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910077540",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910077541",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1910077562",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7779,63 +7779,63 @@
 	{
 		"assign": "2413982994",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2413982993",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2413982992",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2413982999",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893980860",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893980863",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893980862",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893980857",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893980856",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7877,35 +7877,35 @@
 	{
 		"assign": "1893984909",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893984910",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893984911",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893984904",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893984905",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -7947,35 +7947,35 @@
 	{
 		"assign": "1893972122",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893972123",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893972120",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893972121",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893972126",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8017,35 +8017,35 @@
 	{
 		"assign": "1893976299",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893976298",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893976297",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893976296",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893976303",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8087,35 +8087,35 @@
 	{
 		"assign": "1893963960",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893963961",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893963962",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893963963",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893963964",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8157,35 +8157,35 @@
 	{
 		"assign": "1893967881",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893967880",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893967883",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893967882",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893967885",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8227,35 +8227,35 @@
 	{
 		"assign": "1893423093",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893423092",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893423095",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893423094",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893422985",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8297,35 +8297,35 @@
 	{
 		"assign": "1893418756",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893418757",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893418758",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893418759",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893418776",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8367,35 +8367,35 @@
 	{
 		"assign": "1893414231",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893414230",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893414229",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893414228",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1893414251",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8437,35 +8437,35 @@
 	{
 		"assign": "2207239648",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2207239663",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2207239662",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2207239661",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2207239660",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8507,35 +8507,35 @@
 	{
 		"assign": "2687533361",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687533374",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687533375",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687533372",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687533373",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8577,35 +8577,35 @@
 	{
 		"assign": "2687562048",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687562063",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687562062",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687562061",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687562060",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8647,35 +8647,35 @@
 	{
 		"assign": "2687435456",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687435471",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687435470",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687435469",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687435468",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8689,63 +8689,63 @@
 	{
 		"assign": "3965683556",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965683557",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965683554",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965683555",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687455761",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687455774",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687455775",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687455772",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687455773",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8787,35 +8787,35 @@
 	{
 		"assign": "2687459874",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687459885",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687459884",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687459887",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687459886",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8857,35 +8857,35 @@
 	{
 		"assign": "2687447923",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687447932",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687447933",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687447934",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687447935",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8927,35 +8927,35 @@
 	{
 		"assign": "2687387076",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687387077",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687387082",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687387083",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687387080",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -8969,63 +8969,63 @@
 	{
 		"assign": "3965469666",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965469665",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965469664",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3965469671",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687341205",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687341204",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687341211",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687341210",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2687341209",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9179,63 +9179,63 @@
 	{
 		"assign": "3473322998",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473322999",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473322992",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473322993",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396751692",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396751691",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396751690",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396751689",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396751688",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9277,35 +9277,35 @@
 	{
 		"assign": "396739551",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396739544",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396739545",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396739546",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396739547",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9347,35 +9347,35 @@
 	{
 		"assign": "396710126",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396710121",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396710120",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396710123",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396710122",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9417,35 +9417,35 @@
 	{
 		"assign": "396731701",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396731700",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396731703",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396731702",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396731849",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9487,35 +9487,35 @@
 	{
 		"assign": "396735940",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396735941",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396735942",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396735943",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396735960",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9557,35 +9557,35 @@
 	{
 		"assign": "396723415",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396723414",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396723413",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396723412",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396723435",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9627,35 +9627,35 @@
 	{
 		"assign": "396498022",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396498023",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396498020",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396498021",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396498042",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -9669,63 +9669,63 @@
 	{
 		"assign": "3473226352",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473226359",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473226358",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3473226357",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396648497",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396648498",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396648499",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396648652",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "396648653",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
@@ -11062,35 +11062,35 @@
 	{
 		"assign": "4136759456",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "4136759457",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "4136759462",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "4136759463",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},
 	{
 		"assign": "4136759460",
 		"jp_text": "",
-		"tr_text": "\"\"jp_explain\":\"",
+		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
 	},

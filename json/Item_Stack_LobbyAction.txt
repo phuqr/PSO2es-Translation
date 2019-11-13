@@ -3929,14 +3929,14 @@
 	{
 		"assign": "3230571",
 		"jp_text": "557「召喚」",
-		"tr_text": "557 \"Victory Pose 4\"",
+		"tr_text": "",
 		"jp_explain": "ロビアク『召喚』\nを全キャラクターで使用可能になる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3230572",
 		"jp_text": "558「ペリエを飲む」",
-		"tr_text": "558 \"Drink perrier\"",
+		"tr_text": "",
 		"jp_explain": "ロビアク『ペリエを飲む』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
 		"tr_explain": ""
 	},
@@ -3992,14 +3992,14 @@
 	{
 		"assign": "3230583",
 		"jp_text": "569「イドラチャンネル」",
-		"tr_text": "596 \"Hydra Channel\"",
+		"tr_text": "",
 		"jp_explain": "ロビアク『イドラチャンネル』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3230584",
 		"jp_text": "570「ジャスパー／ローザ」",
-		"tr_text": "570 \"Jasper and Rosa\"",
+		"tr_text": "",
 		"jp_explain": "ロビアク『ジャスパー／ローザ』\nを全キャラクターで使用可能になる。",
 		"tr_explain": ""
 	}

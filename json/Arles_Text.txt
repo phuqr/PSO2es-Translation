@@ -82,7 +82,7 @@
 	{
 		"eventNo": "10",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=80>ストーリー　オブ　アーレス<%br>－ The 1st Record －<%br>女神降臨</size>",
 		"tr_text": "<size=80>Story of Ares<%br>- The 1st Record -<%br>The Goddess Appears</size>",
 		"fileID": 1
@@ -378,9 +378,9 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -922,9 +922,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1474,9 +1474,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1514,9 +1514,9 @@
 	{
 		"eventNo": "6",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -1754,23 +1754,23 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ズシィィィィン―",
 		"tr_text": "-Kabloooooow-",
 		"fileID": 1
@@ -2338,9 +2338,9 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -2858,9 +2858,9 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
@@ -3450,15 +3450,15 @@
 	{
 		"eventNo": "38",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 1
 	},
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=80>ストーリー　オブ　アーレス<%br>The ２nd Record</size>",
 		"tr_text": "- Next Time -<%br><size=80>Story of Ares<%br>The 2nd Record</size>",
 		"fileID": 1
@@ -3466,15 +3466,15 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "アークスが新しく開発した<%br>「惑星守護型ウェポノイド」……<%br>その最初のひとり、アーレスカイゼルさんは<%br>惑星を守護する条件として<%br>わたし達に、３人のユニコーンを<%br>育てるよう命じました。",
 		"tr_text": "ARKS's newly developed<%br>\"Planetary Guardian Weaponoid\"...<%br>Before she would protect the planets,<%br>the first of them, Ares Kaiser, demanded<%br>that we train her three \"Unicorns\".",
 		"fileID": 2
@@ -3482,7 +3482,7 @@
 	{
 		"eventNo": "2",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "ユニコーンたちは、アーレスカイゼルさんの出した<%br>最後の試練にも合格しました。<%br>しかし……<%br>そこへ、アーレスネストさんが現れたのです。",
 		"tr_text": "The Unicorns passed Ares Kaiser's final trial.<%br>But...<%br>At that moment, Ares Nest appeared.",
 		"fileID": 2
@@ -3490,7 +3490,7 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "ヒトなんて信用できない……<%br>そう告げたアーレスネストさんは<%br>アークスと協力するアーレスカイゼルさんと<%br>敵対することを宣言しました。",
 		"tr_text": "She had no trust in her heart for humans...<%br>And having told us that, she pronounced<%br>Ares Kaiser, who willingly worked<%br>with ARKS, to be her enemy.",
 		"fileID": 2
@@ -3498,7 +3498,7 @@
 	{
 		"eventNo": "4",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "そして、お互いのユニコーンたちを<%br>戦わせて決着をつけようと……<%br>アーレスバトルを申し込んできたのです。",
 		"tr_text": "The two decided to settle things by<%br>having their Unicorns fight each other...<%br>And so, the Ares Battle was declared.",
 		"fileID": 2
@@ -3506,7 +3506,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "<size=80>ストーリー　オブ　アーレス<%br>－ The ２nd Record －<%br>兄弟の戦い</size>",
 		"tr_text": "<size=80>Story of Ares<%br>- The 2nd Record -<%br>Battle of Brothers</size>",
 		"fileID": 2
@@ -4274,9 +4274,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -4378,9 +4378,9 @@
 	{
 		"eventNo": "27",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -5426,9 +5426,9 @@
 	{
 		"eventNo": "32",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -6026,9 +6026,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 2
 	},
 	{
@@ -7450,7 +7450,7 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=80>ストーリー　オブ　アーレス<%br>The ３th Record</size>",
 		"tr_text": "- Next Time -<%br><size=80>Story of Ares<%br>The 3rd Record</size>",
 		"fileID": 2
@@ -7458,9 +7458,9 @@
 	{
 		"eventNo": "0",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7596,7 +7596,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7882,9 +7882,9 @@
 	{
 		"eventNo": "9",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -7930,9 +7930,9 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8018,7 +8018,7 @@
 	{
 		"eventNo": "26",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ドォォン！―",
 		"tr_text": "",
 		"fileID": 3
@@ -8092,7 +8092,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8394,9 +8394,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8450,9 +8450,9 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8610,9 +8610,9 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8650,9 +8650,9 @@
 	{
 		"eventNo": "16",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8698,9 +8698,9 @@
 	{
 		"eventNo": "22",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8714,9 +8714,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8740,7 +8740,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -8924,7 +8924,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9106,9 +9106,9 @@
 	{
 		"eventNo": "21",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9244,7 +9244,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9362,9 +9362,9 @@
 	{
 		"eventNo": "26",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9372,7 +9372,7 @@
 		"jp_name": "パルチザン&ソード",
 		"tr_name": "Partizan & Sword",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9380,7 +9380,7 @@
 		"jp_name": "ブーツ&バスター",
 		"tr_name": "Boots & Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9562,7 +9562,7 @@
 	{
 		"eventNo": "11",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ドォォン！―",
 		"tr_text": "",
 		"fileID": 3
@@ -9658,9 +9658,9 @@
 	{
 		"eventNo": "23",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -9746,7 +9746,7 @@
 	{
 		"eventNo": "5",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ガキィィィィン！―",
 		"tr_text": "",
 		"fileID": 3
@@ -9962,9 +9962,9 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10116,7 +10116,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10130,9 +10130,9 @@
 	{
 		"eventNo": "14",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10282,7 +10282,7 @@
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―バキィィィィン！―",
 		"tr_text": "",
 		"fileID": 3
@@ -10298,7 +10298,7 @@
 	{
 		"eventNo": "35",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ズズゥゥゥゥン……―",
 		"tr_text": "",
 		"fileID": 3
@@ -10396,7 +10396,7 @@
 		"jp_name": "バスター＆ソード",
 		"tr_name": "Buster & Sword",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10426,9 +10426,9 @@
 	{
 		"eventNo": "1",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10442,9 +10442,9 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10474,9 +10474,9 @@
 	{
 		"eventNo": "7",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10538,9 +10538,9 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10610,9 +10610,9 @@
 	{
 		"eventNo": "24",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10730,7 +10730,7 @@
 	{
 		"eventNo": "39",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ガサガサッ―",
 		"tr_text": "",
 		"fileID": 3
@@ -10874,9 +10874,9 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -10930,9 +10930,9 @@
 	{
 		"eventNo": "20",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11058,9 +11058,9 @@
 	{
 		"eventNo": "36",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11234,9 +11234,9 @@
 	{
 		"eventNo": "3",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11738,9 +11738,9 @@
 	{
 		"eventNo": "31",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11756,7 +11756,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11844,7 +11844,7 @@
 		"jp_name": "アーレスソード",
 		"tr_name": "Ares Sword",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -11882,7 +11882,7 @@
 	{
 		"eventNo": "13",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ドゴォォォ！―",
 		"tr_text": "",
 		"fileID": 3
@@ -11908,7 +11908,7 @@
 		"jp_name": "アーレスバスター",
 		"tr_name": "Ares Buster",
 		"jp_text": "…………",
-		"tr_text": "…………",
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -12122,7 +12122,7 @@
 	{
 		"eventNo": "15",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―ザシュッ！―",
 		"tr_text": "",
 		"fileID": 3
@@ -12266,9 +12266,9 @@
 	{
 		"eventNo": "33",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -12482,9 +12482,9 @@
 	{
 		"eventNo": "60",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "",
-		"tr_text": ""
+		"tr_text": "",
 		"fileID": 3
 	},
 	{
@@ -12506,7 +12506,7 @@
 	{
 		"eventNo": "63",
 		"jp_name": "",
-		"tr_name": ""
+		"tr_name": "",
 		"jp_text": "―Next Time―<%br><size=80>ストーリー　オブ　アーレス<%br>The ４th Record</size>",
 		"tr_text": "",
 		"fileID": 3

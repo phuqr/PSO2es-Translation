@@ -1339,7 +1339,7 @@
 	{
 		"assign": "230418",
 		"jp_text": "大豆ＴシャツＭ[Ou]",
-		"tr_text": "Soybean T-Shirt M [Ou]",
+		"tr_text": "",
 		"jp_explain": "選ばれし者に贈られる名誉ある服。\n中央にあしらわれた不思議な文様は\n大いなる豆知識の意とされる。",
 		"tr_explain": ""
 	},
@@ -1465,7 +1465,7 @@
 	{
 		"assign": "230475",
 		"jp_text": "アークスジャージーＭ[Ou]",
-		"tr_text": "Arcs Jersey M [Ou]",
+		"tr_text": "",
 		"jp_explain": "伸縮性のある生地で作られた\nトレーニング用の衣装。動きやすく\n機能的で、いかなる用途にも応える。",
 		"tr_explain": ""
 	},

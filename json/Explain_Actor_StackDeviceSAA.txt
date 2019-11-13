@@ -11,21 +11,21 @@
 		"jp_text": "SP打撃/乱舞",
 		"tr_text": "SP Striking/Dance",
 		"jp_explain": "プレイヤーの周囲を攻撃する。\nヒットごとにPPを回復し\n攻撃力アップ効果を得る。",
-		"tr_explain": "Attack around the player. \nRecover PP for each hit, \ngaining attack power."
+		"tr_explain": ""
 	},
 	{
 		"assign": "mag_VulcanCannon",
 		"jp_text": "SP射撃/速射",
 		"tr_text": "SP Ranged/Rapid Fire",
 		"jp_explain": "敵単体に高速射撃を行い\nヒットごとにPPを回復する。",
-		"tr_explain": "Fire at a single enemy at high speed. \nRecover PP on every hit."
+		"tr_explain": ""
 	},
 	{
 		"assign": "mag_TechCharger",
 		"jp_text": "SP法撃/集束",
 		"tr_text": "SP Technique/Convergence",
 		"jp_explain": "効果時間中、法撃の\nチャージ時間を短縮する。",
-		"tr_explain": "Reduce charge time during duration."
+		"tr_explain": ""
 	},
 	{
 		"assign": "mag_Reflector",

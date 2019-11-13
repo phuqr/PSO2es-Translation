@@ -27715,7 +27715,7 @@
 	{
 		"assign": "3804312",
 		"jp_text": "オメガコカトリスヘッド",
-		"tr_text": "Omega Cockatrice Head",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nオメガコカトリスヘッドが選択可能。",
 		"tr_explain": ""
 	},
@@ -27750,7 +27750,7 @@
 	{
 		"assign": "3804317",
 		"jp_text": "フライングソーサー",
-		"tr_text": "Flying Saucer",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフライングソーサーが選択可能。\n<yellow>※サイズ調整はできません。<c>",
 		"tr_explain": ""
 	},
@@ -28464,7 +28464,7 @@
 	{
 		"assign": "3804421",
 		"jp_text": "リリーパフレーム",
-		"tr_text": "Lilypa Frame",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリリーパフレームが選択可能。",
 		"tr_explain": ""
 	},
@@ -28737,7 +28737,7 @@
 	{
 		"assign": "3804485",
 		"jp_text": "パンプキンスカート",
-		"tr_text": "Pumpkin Skirt",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nパンプキンスカートが選択可能。",
 		"tr_explain": ""
 	},
@@ -28877,7 +28877,7 @@
 	{
 		"assign": "3804505",
 		"jp_text": "腰下げペリエ",
-		"tr_text": "Lower Back Perrier",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\n腰下げペリエが選択可能。",
 		"tr_explain": ""
 	},
@@ -29052,14 +29052,14 @@
 	{
 		"assign": "3804593",
 		"jp_text": "頭乗りマルガレータ",
-		"tr_text": "Head Riding Margareta",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りマルガレータが選択可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3804594",
 		"jp_text": "頭乗りルーサー２",
-		"tr_text": "Head Riding Luther 2",
+		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りルーサー２が選択可能。",
 		"tr_explain": ""
 	}

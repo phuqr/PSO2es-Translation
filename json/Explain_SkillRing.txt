@@ -443,14 +443,14 @@
 	{
 		"assign": "90",
 		"jp_text": "エフォートシンボルHr",
-		"tr_text": "Effort Symbol Hr",
+		"tr_text": "",
 		"jp_explain": "エフォートシンボルヒーロー\n努力の末に得た勇敢な英雄の証",
 		"tr_explain": ""
 	},
 	{
 		"assign": "101",
 		"jp_text": "エフォートシンボルPh",
-		"tr_text": "Effort Symbol Ph",
+		"tr_text": "",
 		"jp_explain": "エフォートシンボルファントム\n努力の末に得た不死の亡霊の証",
 		"tr_explain": ""
 	},
@@ -597,28 +597,28 @@
 	{
 		"assign": "92",
 		"jp_text": "パーティーオブタフネス",
-		"tr_text": "Party of toughness",
+		"tr_text": "",
 		"jp_explain": "パーティーオブタフネス\nパーティー人数が２人以上の場合、人数に応じて\nエネミーからの被ダメージ量を軽減する。",
-		"tr_explain": "Party of toughness \nIf there are 2 or more parties,  nThe amount of damage taken from enemies will be reduced according to the number of parties. "
+		"tr_explain": ""
 	},
 	{
 		"assign": "93",
 		"jp_text": "ウィークヒットＰＰゲイン",
-		"tr_text": "Weak hit PP gain",
+		"tr_text": "",
 		"jp_explain": "ウィークヒットＰＰゲイン\n弱点部位に通常攻撃を当てた時に\nＰＰ回復量が上昇する。",
-		"tr_explain": "Weak hit PP gain \nWhen a normal attack is applied to a weak spot, \nPP recovery increases. "
+		"tr_explain": ""
 	},
 	{
 		"assign": "94",
 		"jp_text": "ＪＧカウンター",
-		"tr_text": "ＪＧ counter",
+		"tr_text": "",
 		"jp_explain": "ジャストガードカウンター\n「ＪＧヘブンリーＦ」「ＪＧライジングＦ」\n「ＪＧソニックアロウ」リングスキルＬｖ．２０の効果を得る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "95",
 		"jp_text": "チェイスＷサポート",
-		"tr_text": "Chase W support",
+		"tr_text": "",
 		"jp_explain": "チェイスウィンドサポート\n「ＤＳカマイタチ」「ＴＤエアチェイス」\n「ナックルチェイス」リングスキルＬｖ．２０の効果を得る。",
 		"tr_explain": ""
 	},

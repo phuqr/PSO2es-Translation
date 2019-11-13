@@ -5336,7 +5336,7 @@
 	{
 		"assign": "3150921",
 		"jp_text": "ファレグヘアー２",
-		"tr_text": "Falleg Hair 2",
+		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nファレグヘアー２が選択可能。",
 		"tr_explain": ""
 	},
